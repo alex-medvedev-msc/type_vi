@@ -17,14 +17,19 @@ def get_features(filename):
 def update_genes(genes, features, org, query):
 	s = set(query.keys())
 	for feature in features:
-		gene = feature.qualifiers["locus_tag"]
+
+		if "locus_tag" not in feature.qualifiers :
+			continue
+
+		gene = feature.qualifiers["locus_tag"][0]
+
 		if gene in s:
 			genes["gene"].append(gene)
 			genes["strand"].append(feature.strand)
 			genes["start"].append(int(feature.location.start))
 			genes["end"].append(int(feature.location.end))
 			genes["contig"].append(feature.contig)
-			genes["kegg_id"].append(query[s])
+			genes["kegg_id"].append(query[gene])
 			genes["org_id"].append(org)
 			genes["name"].append(feature.qualifiers["product"])
 			genes["translation"].append(feature.qualifiers["translation"][0])
@@ -43,7 +48,7 @@ def get_codes(gen_type, file_name):
 
 
 def main():
-	genomes_dir = ""
+	genomes_dir = "C:\\6_system\\extracted"
 	organisms_table = "type_vi_organisms.csv"
 	organisms = pd.read_csv(organisms_table)
 	names = {u.split("/")[-1]: t for u, t in zip(organisms.ncbi, organisms.organism)}
@@ -54,7 +59,7 @@ def main():
 			if name in file:
 				org = names[name]
 				break
-		query = get_codes(org.toupper(), "codes.csv")
+		query = get_codes(org.upper(), "codes.csv")
 		features = get_features(file)
 		update_genes(genes, features, org, query)
 	
