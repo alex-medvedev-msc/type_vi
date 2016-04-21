@@ -1,0 +1,7 @@
+form query
+genomes to fasta
+blast query against genomes
+extract intervals from blast results and genbank files
+transform intervals into vectors
+write pandas file with vectors
+
