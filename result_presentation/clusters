@@ -1,0 +1,3932 @@
+eld cluster num: 1
+eld unic gene num: 14
+eld outside of cluster: 2
+eld cluster 0
+eld distance 24914
+
+ete cluster num: 2
+ete unic gene num: 3
+ete outside of cluster: 0
+ete cluster 0
+ete distance 25802
+ete cluster 1
+ete distance 19082
+
+serf cluster num: 2
+serf unic gene num: 13
+serf outside of cluster: 0
+serf cluster 0
+serf distance 19937
+serf cluster 1
+serf distance 34641
+
+eun cluster num: 1
+eun unic gene num: 13
+eun outside of cluster: 2
+eun cluster 0
+eun distance 21000
+
+sey cluster num: 0
+sey unic gene num: 1
+sey outside of cluster: 1
+
+ali cluster num: 2
+ali unic gene num: 12
+ali outside of cluster: 0
+ali cluster 0
+ali distance 27460
+ali cluster 1
+ali distance 5546
+
+senn cluster num: 1
+senn unic gene num: 13
+senn outside of cluster: 1
+senn cluster 0
+senn distance 26476
+
+paeo cluster num: 2
+paeo unic gene num: 13
+paeo outside of cluster: 7
+paeo cluster 0
+paeo distance 23778
+paeo cluster 1
+paeo distance 15448
+
+sfr cluster num: 1
+sfr unic gene num: 13
+sfr outside of cluster: 0
+sfr cluster 0
+sfr distance 22257
+
+pfo cluster num: 2
+pfo unic gene num: 14
+pfo outside of cluster: 6
+pfo cluster 0
+pfo distance 17851
+pfo cluster 1
+pfo distance 26918
+
+bpk cluster num: 5
+bpk unic gene num: 15
+bpk outside of cluster: 2
+bpk cluster 0
+bpk distance 76760
+bpk cluster 1
+bpk distance 26774
+bpk cluster 2
+bpk distance 67272
+bpk cluster 3
+bpk distance 21175
+bpk cluster 4
+bpk distance 22812
+
+ecla cluster num: 3
+ecla unic gene num: 16
+ecla outside of cluster: 2
+ecla cluster 0
+ecla distance 24783
+ecla cluster 1
+ecla distance 114388
+ecla cluster 2
+ecla distance 112612
+
+eam cluster num: 2
+eam unic gene num: 15
+eam outside of cluster: 2
+eam cluster 0
+eam distance 20959
+eam cluster 1
+eam distance 33214
+
+kpr cluster num: 4
+kpr unic gene num: 13
+kpr outside of cluster: 1
+kpr cluster 0
+kpr distance 943
+kpr cluster 1
+kpr distance 9207
+kpr cluster 2
+kpr distance 19766
+kpr cluster 3
+kpr distance 3924
+
+bpx cluster num: 2
+bpx unic gene num: 15
+bpx outside of cluster: 3
+bpx cluster 0
+bpx distance 27214
+bpx cluster 1
+bpx distance 16063
+
+psp cluster num: 1
+psp unic gene num: 12
+psp outside of cluster: 3
+psp cluster 0
+psp distance 50390
+
+bcew cluster num: 2
+bcew unic gene num: 14
+bcew outside of cluster: 3
+bcew cluster 0
+bcew distance 17599
+bcew cluster 1
+bcew distance 115280
+
+yey cluster num: 1
+yey unic gene num: 13
+yey outside of cluster: 0
+yey cluster 0
+yey distance 27122
+
+mfu cluster num: 2
+mfu unic gene num: 13
+mfu outside of cluster: 1
+mfu cluster 0
+mfu distance 1117
+mfu cluster 1
+mfu distance 17834
+
+ppx cluster num: 3
+ppx unic gene num: 14
+ppx outside of cluster: 6
+ppx cluster 0
+ppx distance 29813
+ppx cluster 1
+ppx distance 13968
+ppx cluster 2
+ppx distance 19348
+
+esm cluster num: 2
+esm unic gene num: 16
+esm outside of cluster: 3
+esm cluster 0
+esm distance 25806
+esm cluster 1
+esm distance 21579
+
+pfs cluster num: 2
+pfs unic gene num: 14
+pfs outside of cluster: 2
+pfs cluster 0
+pfs distance 7618
+pfs cluster 1
+pfs distance 18403
+
+axs cluster num: 1
+axs unic gene num: 13
+axs outside of cluster: 0
+axs cluster 0
+axs distance 34508
+
+ptv cluster num: 2
+ptv unic gene num: 15
+ptv outside of cluster: 3
+ptv cluster 0
+ptv distance 17006
+ptv cluster 1
+ptv distance 15799
+
+ypk cluster num: 6
+ypk unic gene num: 16
+ypk outside of cluster: 0
+ypk cluster 0
+ypk distance 3535
+ypk cluster 1
+ypk distance 25807
+ypk cluster 2
+ypk distance 31364
+ypk cluster 3
+ypk distance 33026
+ypk cluster 4
+ypk distance 109771
+ypk cluster 5
+ypk distance 22602
+
+adi cluster num: 1
+adi unic gene num: 13
+adi outside of cluster: 2
+adi cluster 0
+adi distance 16821
+
+vtu cluster num: 3
+vtu unic gene num: 16
+vtu outside of cluster: 0
+vtu cluster 0
+vtu distance 28405
+vtu cluster 1
+vtu distance 23922
+vtu cluster 2
+vtu distance 20400
+
+bml cluster num: 4
+bml unic gene num: 15
+bml outside of cluster: 2
+bml cluster 0
+bml distance 83888
+bml cluster 1
+bml distance 24697
+bml cluster 2
+bml distance 25361
+bml cluster 3
+bml distance 14630
+
+bceo cluster num: 3
+bceo unic gene num: 14
+bceo outside of cluster: 4
+bceo cluster 0
+bceo distance 15922
+bceo cluster 1
+bceo distance 10490
+bceo cluster 2
+bceo distance 10634
+
+bur cluster num: 4
+bur unic gene num: 13
+bur outside of cluster: 2
+bur cluster 0
+bur distance 32958
+bur cluster 1
+bur distance 26926
+bur cluster 2
+bur distance 21730
+bur cluster 3
+bur distance 12771
+
+paec cluster num: 3
+paec unic gene num: 14
+paec outside of cluster: 7
+paec cluster 0
+paec distance 23778
+paec cluster 1
+paec distance 15448
+paec cluster 2
+paec distance 17072
+
+amim cluster num: 3
+amim unic gene num: 13
+amim outside of cluster: 1
+amim cluster 0
+amim distance 9588
+amim cluster 1
+amim distance 290393
+amim cluster 2
+amim distance 6292
+
+eum cluster num: 1
+eum unic gene num: 14
+eum outside of cluster: 1
+eum cluster 0
+eum distance 20532
+
+pses cluster num: 3
+pses unic gene num: 13
+pses outside of cluster: 4
+pses cluster 0
+pses distance 18106
+pses cluster 1
+pses distance 17831
+pses cluster 2
+pses distance 15896
+
+pman cluster num: 1
+pman unic gene num: 13
+pman outside of cluster: 6
+pman cluster 0
+pman distance 23093
+
+ecol cluster num: 2
+ecol unic gene num: 14
+ecol outside of cluster: 2
+ecol cluster 0
+ecol distance 20836
+ecol cluster 1
+ecol distance 34128
+
+erj cluster num: 1
+erj unic gene num: 9
+erj outside of cluster: 1
+erj cluster 0
+erj distance 27650
+
+raa cluster num: 3
+raa unic gene num: 16
+raa outside of cluster: 7
+raa cluster 0
+raa distance 172519
+raa cluster 1
+raa distance 50552
+raa cluster 2
+raa distance 15576
+
+azi cluster num: 1
+azi unic gene num: 13
+azi outside of cluster: 2
+azi cluster 0
+azi distance 12246
+
+sev cluster num: 1
+sev unic gene num: 13
+sev outside of cluster: 1
+sev cluster 0
+sev distance 25193
+
+etc cluster num: 2
+etc unic gene num: 16
+etc outside of cluster: 0
+etc cluster 0
+etc distance 30048
+etc cluster 1
+etc distance 16135
+
+sew cluster num: 1
+sew unic gene num: 10
+sew outside of cluster: 1
+sew cluster 0
+sew distance 25381
+
+psb cluster num: 1
+psb unic gene num: 13
+psb outside of cluster: 3
+psb cluster 0
+psb distance 36984
+
+seen cluster num: 1
+seen unic gene num: 13
+seen outside of cluster: 1
+seen cluster 0
+seen distance 25193
+
+ahi cluster num: 1
+ahi unic gene num: 14
+ahi outside of cluster: 3
+ahi cluster 0
+ahi distance 30696
+
+pay cluster num: 5
+pay unic gene num: 16
+pay outside of cluster: 3
+pay cluster 0
+pay distance 34582
+pay cluster 1
+pay distance 80123
+pay cluster 2
+pay distance 56654
+pay cluster 3
+pay distance 25786
+pay cluster 4
+pay distance 71672
+
+psec cluster num: 2
+psec unic gene num: 13
+psec outside of cluster: 1
+psec cluster 0
+psec distance 14051
+psec cluster 1
+psec distance 19187
+
+bbm cluster num: 1
+bbm unic gene num: 12
+bbm outside of cluster: 0
+bbm cluster 0
+bbm distance 17116
+
+sem cluster num: 1
+sem unic gene num: 13
+sem outside of cluster: 1
+sem cluster 0
+sem distance 25208
+
+rse cluster num: 1
+rse unic gene num: 8
+rse outside of cluster: 3
+rse cluster 0
+rse distance 35844
+
+ecli cluster num: 3
+ecli unic gene num: 16
+ecli outside of cluster: 2
+ecli cluster 0
+ecli distance 24783
+ecli cluster 1
+ecli distance 114394
+ecli cluster 2
+ecli distance 112612
+
+ppw cluster num: 2
+ppw unic gene num: 15
+ppw outside of cluster: 2
+ppw cluster 0
+ppw distance 26434
+ppw cluster 1
+ppw distance 28371
+
+ahj cluster num: 1
+ahj unic gene num: 14
+ahj outside of cluster: 2
+ahj cluster 0
+ahj distance 30703
+
+senc cluster num: 1
+senc unic gene num: 13
+senc outside of cluster: 1
+senc cluster 0
+senc distance 38779
+
+bced cluster num: 1
+bced unic gene num: 12
+bced outside of cluster: 4
+bced cluster 0
+bced distance 19084
+
+ppt cluster num: 1
+ppt unic gene num: 13
+ppt outside of cluster: 6
+ppt cluster 0
+ppt distance 28955
+
+ecy cluster num: 1
+ecy unic gene num: 14
+ecy outside of cluster: 2
+ecy cluster 0
+ecy distance 20991
+
+bgl cluster num: 3
+bgl unic gene num: 15
+bgl outside of cluster: 3
+bgl cluster 0
+bgl distance 259069
+bgl cluster 1
+bgl distance 18720
+bgl cluster 2
+bgl distance 28626
+
+ypq cluster num: 5
+ypq unic gene num: 15
+ypq outside of cluster: 0
+ypq cluster 0
+ypq distance 36414
+ypq cluster 1
+ypq distance 22623
+ypq cluster 2
+ypq distance 30076
+ypq cluster 3
+ypq distance 125442
+ypq cluster 4
+ypq distance 28123
+
+vex cluster num: 2
+vex unic gene num: 16
+vex outside of cluster: 0
+vex cluster 0
+vex distance 20210
+vex cluster 1
+vex distance 27131
+
+smac cluster num: 1
+smac unic gene num: 13
+smac outside of cluster: 2
+smac cluster 0
+smac distance 35639
+
+kmi cluster num: 1
+kmi unic gene num: 14
+kmi outside of cluster: 2
+kmi cluster 0
+kmi distance 28786
+
+rsl cluster num: 1
+rsl unic gene num: 11
+rsl outside of cluster: 4
+rsl cluster 0
+rsl distance 39554
+
+ecc cluster num: 1
+ecc unic gene num: 13
+ecc outside of cluster: 2
+ecc cluster 0
+ecc distance 24912
+
+yee cluster num: 1
+yee unic gene num: 12
+yee outside of cluster: 0
+yee cluster 0
+yee distance 28934
+
+vcm cluster num: 1
+vcm unic gene num: 11
+vcm outside of cluster: 0
+vcm cluster 0
+vcm distance 19217
+
+yin cluster num: 2
+yin unic gene num: 15
+yin outside of cluster: 1
+yin cluster 0
+yin distance 29578
+yin cluster 1
+yin distance 26137
+
+bfn cluster num: 3
+bfn unic gene num: 14
+bfn outside of cluster: 2
+bfn cluster 0
+bfn distance 18246
+bfn cluster 1
+bfn distance 19219
+bfn cluster 2
+bfn distance 23167
+
+bpsu cluster num: 6
+bpsu unic gene num: 14
+bpsu outside of cluster: 3
+bpsu cluster 0
+bpsu distance 16091
+bpsu cluster 1
+bpsu distance 20077
+bpsu cluster 2
+bpsu distance 22817
+bpsu cluster 3
+bpsu distance 24697
+bpsu cluster 4
+bpsu distance 76813
+bpsu cluster 5
+bpsu distance 26488
+
+kph cluster num: 2
+kph unic gene num: 14
+kph outside of cluster: 3
+kph cluster 0
+kph distance 31811
+kph cluster 1
+kph distance 27130
+
+enc cluster num: 1
+enc unic gene num: 7
+enc outside of cluster: 8
+enc cluster 0
+enc distance 24238
+
+bct cluster num: 2
+bct unic gene num: 13
+bct outside of cluster: 4
+bct cluster 0
+bct distance 19080
+bct cluster 1
+bct distance 21663
+
+bve cluster num: 2
+bve unic gene num: 13
+bve outside of cluster: 3
+bve cluster 0
+bve distance 19921
+bve cluster 1
+bve distance 125956
+
+xoy cluster num: 2
+xoy unic gene num: 13
+xoy outside of cluster: 1
+xoy cluster 0
+xoy distance 66770
+xoy cluster 1
+xoy distance 26700
+
+elo cluster num: 2
+elo unic gene num: 16
+elo outside of cluster: 1
+elo cluster 0
+elo distance 20532
+elo cluster 1
+elo distance 56019
+
+psg cluster num: 3
+psg unic gene num: 15
+psg outside of cluster: 8
+psg cluster 0
+psg distance 24122
+psg cluster 1
+psg distance 18785
+psg cluster 2
+psg distance 20385
+
+paeg cluster num: 3
+paeg unic gene num: 15
+paeg outside of cluster: 9
+paeg cluster 0
+paeg distance 22465
+paeg cluster 1
+paeg distance 15448
+paeg cluster 2
+paeg distance 17880
+
+boc cluster num: 5
+boc unic gene num: 14
+boc outside of cluster: 3
+boc cluster 0
+boc distance 16035
+boc cluster 1
+boc distance 20381
+boc cluster 2
+boc distance 25766
+boc cluster 3
+boc distance 18052
+boc cluster 4
+boc distance 25390
+
+tea cluster num: 1
+tea unic gene num: 13
+tea outside of cluster: 0
+tea cluster 0
+tea distance 36732
+
+ccon cluster num: 3
+ccon unic gene num: 16
+ccon outside of cluster: 3
+ccon cluster 0
+ccon distance 62441
+ccon cluster 1
+ccon distance 2099
+ccon cluster 2
+ccon distance 34372
+
+ecly cluster num: 2
+ecly unic gene num: 16
+ecly outside of cluster: 3
+ecly cluster 0
+ecly distance 35915
+ecly cluster 1
+ecly distance 29684
+
+vpa cluster num: 2
+vpa unic gene num: 16
+vpa outside of cluster: 0
+vpa cluster 0
+vpa distance 28367
+vpa cluster 1
+vpa distance 21604
+
+ece cluster num: 1
+ece unic gene num: 14
+ece outside of cluster: 1
+ece cluster 0
+ece distance 20883
+
+ypl cluster num: 6
+ypl unic gene num: 15
+ypl outside of cluster: 1
+ypl cluster 0
+ypl distance 22601
+ypl cluster 1
+ypl distance 31462
+ypl cluster 2
+ypl distance 17806
+ypl cluster 3
+ypl distance 9522
+ypl cluster 4
+ypl distance 33034
+ypl cluster 5
+ypl distance 9428
+
+pmos cluster num: 1
+pmos unic gene num: 13
+pmos outside of cluster: 1
+pmos cluster 0
+pmos distance 17610
+
+vcy cluster num: 2
+vcy unic gene num: 16
+vcy outside of cluster: 0
+vcy cluster 0
+vcy distance 24122
+vcy cluster 1
+vcy distance 28193
+
+kpi cluster num: 2
+kpi unic gene num: 14
+kpi outside of cluster: 1
+kpi cluster 0
+kpi distance 24689
+kpi cluster 1
+kpi distance 20437
+
+sens cluster num: 1
+sens unic gene num: 14
+sens outside of cluster: 2
+sens cluster 0
+sens distance 22898
+
+smw cluster num: 2
+smw unic gene num: 9
+smw outside of cluster: 3
+smw cluster 0
+smw distance 35963
+smw cluster 1
+smw distance 22451
+
+vpe cluster num: 4
+vpe unic gene num: 13
+vpe outside of cluster: 2
+vpe cluster 0
+vpe distance 73120
+vpe cluster 1
+vpe distance 33334
+vpe cluster 2
+vpe distance 14191
+vpe cluster 3
+vpe distance 15802
+
+seb cluster num: 1
+seb unic gene num: 11
+seb outside of cluster: 1
+seb cluster 0
+seb distance 25193
+
+ecle cluster num: 1
+ecle unic gene num: 14
+ecle outside of cluster: 8
+ecle cluster 0
+ecle distance 29684
+
+kpb cluster num: 2
+kpb unic gene num: 14
+kpb outside of cluster: 2
+kpb cluster 0
+kpb distance 27079
+kpb cluster 1
+kpb distance 20864
+
+vcq cluster num: 1
+vcq unic gene num: 14
+vcq outside of cluster: 0
+vcq cluster 0
+vcq distance 188850
+
+eay cluster num: 2
+eay unic gene num: 16
+eay outside of cluster: 2
+eay cluster 0
+eay distance 32311
+eay cluster 1
+eay distance 30543
+
+btq cluster num: 5
+btq unic gene num: 14
+btq outside of cluster: 3
+btq cluster 0
+btq distance 19234
+btq cluster 1
+btq distance 26293
+btq cluster 2
+btq distance 20757
+btq cluster 3
+btq distance 26415
+btq cluster 4
+btq distance 25417
+
+mci cluster num: 1
+mci unic gene num: 13
+mci outside of cluster: 0
+mci cluster 0
+mci distance 31312
+
+bthm cluster num: 5
+bthm unic gene num: 14
+bthm outside of cluster: 2
+bthm cluster 0
+bthm distance 38170
+bthm cluster 1
+bthm distance 22528
+bthm cluster 2
+bthm distance 25417
+bthm cluster 3
+bthm distance 26353
+bthm cluster 4
+bthm distance 20697
+
+sek cluster num: 1
+sek unic gene num: 13
+sek outside of cluster: 1
+sek cluster 0
+sek distance 28956
+
+bph cluster num: 2
+bph unic gene num: 13
+bph outside of cluster: 4
+bph cluster 0
+bph distance 23525
+bph cluster 1
+bph distance 22241
+
+eas cluster num: 3
+eas unic gene num: 16
+eas outside of cluster: 3
+eas cluster 0
+eas distance 46365
+eas cluster 1
+eas distance 29042
+eas cluster 2
+eas distance 18288
+
+teg cluster num: 1
+teg unic gene num: 13
+teg outside of cluster: 0
+teg cluster 0
+teg distance 31450
+
+ypj cluster num: 6
+ypj unic gene num: 15
+ypj outside of cluster: 0
+ypj cluster 0
+ypj distance 33024
+ypj cluster 1
+ypj distance 20093
+ypj cluster 2
+ypj distance 26861
+ypj cluster 3
+ypj distance 5885
+ypj cluster 4
+ypj distance 45214
+ypj cluster 5
+ypj distance 31380
+
+edw cluster num: 3
+edw unic gene num: 16
+edw outside of cluster: 0
+edw cluster 0
+edw distance 19479
+edw cluster 1
+edw distance 23558
+edw cluster 2
+edw distance 28190
+
+bpso cluster num: 5
+bpso unic gene num: 14
+bpso outside of cluster: 3
+bpso cluster 0
+bpso distance 16100
+bpso cluster 1
+bpso distance 26788
+bpso cluster 2
+bpso distance 25400
+bpso cluster 3
+bpso distance 128053
+bpso cluster 4
+bpso distance 75061
+
+arc cluster num: 1
+arc unic gene num: 13
+arc outside of cluster: 0
+arc cluster 0
+arc distance 21702
+
+bac cluster num: 4
+bac unic gene num: 15
+bac outside of cluster: 1
+bac cluster 0
+bac distance 24975
+bac cluster 1
+bac distance 32582
+bac cluster 2
+bac distance 27156
+bac cluster 3
+bac distance 28024
+
+sfw cluster num: 2
+sfw unic gene num: 14
+sfw outside of cluster: 1
+sfw cluster 0
+sfw distance 4556
+sfw cluster 1
+sfw distance 21003
+
+psh cluster num: 2
+psh unic gene num: 13
+psh outside of cluster: 0
+psh cluster 0
+psh distance 14406
+psh cluster 1
+psh distance 38955
+
+bvi cluster num: 3
+bvi unic gene num: 14
+bvi outside of cluster: 0
+bvi cluster 0
+bvi distance 16763
+bvi cluster 1
+bvi distance 24158
+bvi cluster 2
+bvi distance 18897
+
+koe cluster num: 3
+koe unic gene num: 14
+koe outside of cluster: 4
+koe cluster 0
+koe distance 23272
+koe cluster 1
+koe distance 33242
+koe cluster 2
+koe distance 25180
+
+xdo cluster num: 3
+xdo unic gene num: 16
+xdo outside of cluster: 4
+xdo cluster 0
+xdo distance 23505
+xdo cluster 1
+xdo distance 23471
+xdo cluster 2
+xdo distance 62625
+
+bpl cluster num: 5
+bpl unic gene num: 15
+bpl outside of cluster: 2
+bpl cluster 0
+bpl distance 19200
+bpl cluster 1
+bpl distance 126317
+bpl cluster 2
+bpl distance 22817
+bpl cluster 3
+bpl distance 24607
+bpl cluster 4
+bpl distance 45254
+
+panp cluster num: 1
+panp unic gene num: 13
+panp outside of cluster: 6
+panp cluster 0
+panp distance 30460
+
+pst cluster num: 2
+pst unic gene num: 13
+pst outside of cluster: 3
+pst cluster 0
+pst distance 18286
+pst cluster 1
+pst distance 28203
+
+pwa cluster num: 2
+pwa unic gene num: 16
+pwa outside of cluster: 12
+pwa cluster 0
+pwa distance 18905
+pwa cluster 1
+pwa distance 35246
+
+pec cluster num: 3
+pec unic gene num: 16
+pec outside of cluster: 15
+pec cluster 0
+pec distance 18905
+pec cluster 1
+pec distance 35252
+pec cluster 2
+pec distance 159581
+
+sbb cluster num: 1
+sbb unic gene num: 13
+sbb outside of cluster: 0
+sbb cluster 0
+sbb distance 20695
+
+psm cluster num: 1
+psm unic gene num: 13
+psm outside of cluster: 0
+psm cluster 0
+psm distance 20527
+
+kps cluster num: 2
+kps unic gene num: 14
+kps outside of cluster: 3
+kps cluster 0
+kps distance 30596
+kps cluster 1
+kps distance 27130
+
+paer cluster num: 3
+paer unic gene num: 15
+paer outside of cluster: 9
+paer cluster 0
+paer distance 17880
+paer cluster 1
+paer distance 23781
+paer cluster 2
+paer distance 15448
+
+ppro cluster num: 0
+ppro unic gene num: 1
+ppro outside of cluster: 1
+
+yro cluster num: 2
+yro unic gene num: 15
+yro outside of cluster: 0
+yro cluster 0
+yro distance 29191
+yro cluster 1
+yro distance 28598
+
+vag cluster num: 2
+vag unic gene num: 16
+vag outside of cluster: 0
+vag cluster 0
+vag distance 28357
+vag cluster 1
+vag distance 21588
+
+elu cluster num: 2
+elu unic gene num: 14
+elu outside of cluster: 1
+elu cluster 0
+elu distance 29254
+elu cluster 1
+elu distance 17639
+
+btha cluster num: 4
+btha unic gene num: 15
+btha outside of cluster: 3
+btha cluster 0
+btha distance 127417
+btha cluster 1
+btha distance 25417
+btha cluster 2
+btha distance 29344
+btha cluster 3
+btha distance 20733
+
+vpk cluster num: 2
+vpk unic gene num: 16
+vpk outside of cluster: 0
+vpk cluster 0
+vpk distance 26490
+vpk cluster 1
+vpk distance 21603
+
+psem cluster num: 1
+psem unic gene num: 13
+psem outside of cluster: 4
+psem cluster 0
+psem distance 22851
+
+ppuh cluster num: 2
+ppuh unic gene num: 14
+ppuh outside of cluster: 10
+ppuh cluster 0
+ppuh distance 24168
+ppuh cluster 1
+ppuh distance 8228
+
+bmaz cluster num: 4
+bmaz unic gene num: 14
+bmaz outside of cluster: 2
+bmaz cluster 0
+bmaz distance 37207
+bmaz cluster 1
+bmaz distance 18668
+bmaz cluster 2
+bmaz distance 22772
+bmaz cluster 3
+bmaz distance 24703
+
+bthl cluster num: 5
+bthl unic gene num: 14
+bthl outside of cluster: 2
+bthl cluster 0
+bthl distance 29737
+bthl cluster 1
+bthl distance 26405
+bthl cluster 2
+bthl distance 25417
+bthl cluster 3
+bthl distance 26365
+bthl cluster 4
+bthl distance 20757
+
+axo cluster num: 1
+axo unic gene num: 13
+axo outside of cluster: 0
+axo cluster 0
+axo distance 35280
+
+cem cluster num: 2
+cem unic gene num: 16
+cem outside of cluster: 3
+cem cluster 0
+cem distance 17600
+cem cluster 1
+cem distance 84422
+
+scu cluster num: 3
+scu unic gene num: 13
+scu outside of cluster: 17
+scu cluster 0
+scu distance 121462
+scu cluster 1
+scu distance 64233
+scu cluster 2
+scu distance 42850
+
+pdr cluster num: 2
+pdr unic gene num: 14
+pdr outside of cluster: 4
+pdr cluster 0
+pdr distance 27659
+pdr cluster 1
+pdr distance 16906
+
+pch cluster num: 2
+pch unic gene num: 15
+pch outside of cluster: 5
+pch cluster 0
+pch distance 19514
+pch cluster 1
+pch distance 23032
+
+kpj cluster num: 2
+kpj unic gene num: 14
+kpj outside of cluster: 1
+kpj cluster 0
+kpj distance 28377
+kpj cluster 1
+kpj distance 25933
+
+dzc cluster num: 1
+dzc unic gene num: 14
+dzc outside of cluster: 2
+dzc cluster 0
+dzc distance 43340
+
+vco cluster num: 1
+vco unic gene num: 11
+vco outside of cluster: 0
+vco cluster 0
+vco distance 20289
+
+bpz cluster num: 0
+bpz unic gene num: 2
+bpz outside of cluster: 3
+
+bxe cluster num: 2
+bxe unic gene num: 13
+bxe outside of cluster: 5
+bxe cluster 0
+bxe distance 2901
+bxe cluster 1
+bxe distance 13675
+
+care cluster num: 2
+care unic gene num: 6
+care outside of cluster: 2
+care cluster 0
+care distance 39734
+care cluster 1
+care distance 27131
+
+rsh cluster num: 1
+rsh unic gene num: 13
+rsh outside of cluster: 0
+rsh cluster 0
+rsh distance 20577
+
+bdl cluster num: 4
+bdl unic gene num: 14
+bdl outside of cluster: 4
+bdl cluster 0
+bdl distance 11121
+bdl cluster 1
+bdl distance 19354
+bdl cluster 2
+bdl distance 8799
+bdl cluster 3
+bdl distance 26678
+
+xne cluster num: 2
+xne unic gene num: 16
+xne outside of cluster: 6
+xne cluster 0
+xne distance 22891
+xne cluster 1
+xne distance 19497
+
+sed cluster num: 2
+sed unic gene num: 16
+sed outside of cluster: 1
+sed cluster 0
+sed distance 23654
+sed cluster 1
+sed distance 20708
+
+ecp cluster num: 2
+ecp unic gene num: 14
+ecp outside of cluster: 1
+ecp cluster 0
+ecp distance 20556
+ecp cluster 1
+ecp distance 29616
+
+bps cluster num: 5
+bps unic gene num: 15
+bps outside of cluster: 2
+bps cluster 0
+bps distance 19201
+bps cluster 1
+bps distance 126511
+bps cluster 2
+bps distance 22817
+bps cluster 3
+bps distance 24676
+bps cluster 4
+bps distance 66732
+
+eso cluster num: 2
+eso unic gene num: 16
+eso outside of cluster: 3
+eso cluster 0
+eso distance 25806
+eso cluster 1
+eso distance 21579
+
+sene cluster num: 1
+sene unic gene num: 13
+sene outside of cluster: 1
+sene cluster 0
+sene distance 26274
+
+ecz cluster num: 2
+ecz unic gene num: 14
+ecz outside of cluster: 1
+ecz cluster 0
+ecz distance 20553
+ecz cluster 1
+ecz distance 28389
+
+dze cluster num: 1
+dze unic gene num: 14
+dze outside of cluster: 8
+dze cluster 0
+dze distance 44202
+
+ypd cluster num: 6
+ypd unic gene num: 16
+ypd outside of cluster: 1
+ypd cluster 0
+ypd distance 20177
+ypd cluster 1
+ypd distance 9397
+ypd cluster 2
+ypd distance 37182
+ypd cluster 3
+ypd distance 30644
+ypd cluster 4
+ypd distance 16308
+ypd cluster 5
+ypd distance 3017
+
+mhc cluster num: 1
+mhc unic gene num: 12
+mhc outside of cluster: 2
+mhc cluster 0
+mhc distance 21550
+
+bbx cluster num: 1
+bbx unic gene num: 12
+bbx outside of cluster: 0
+bbx cluster 0
+bbx distance 17131
+
+ypz cluster num: 6
+ypz unic gene num: 16
+ypz outside of cluster: 0
+ypz cluster 0
+ypz distance 20174
+ypz cluster 1
+ypz distance 45434
+ypz cluster 2
+ypz distance 37156
+ypz cluster 3
+ypz distance 30684
+ypz cluster 4
+ypz distance 15700
+ypz cluster 5
+ypz distance 3017
+
+ppuu cluster num: 1
+ppuu unic gene num: 5
+ppuu outside of cluster: 1
+ppuu cluster 0
+ppuu distance 21315
+
+rpf cluster num: 1
+rpf unic gene num: 13
+rpf outside of cluster: 4
+rpf cluster 0
+rpf distance 28045
+
+enl cluster num: 2
+enl unic gene num: 13
+enl outside of cluster: 8
+enl cluster 0
+enl distance 132688
+enl cluster 1
+enl distance 34663
+
+elf cluster num: 2
+elf unic gene num: 14
+elf outside of cluster: 2
+elf cluster 0
+elf distance 25873
+elf cluster 1
+elf distance 26931
+
+vca cluster num: 1
+vca unic gene num: 14
+vca outside of cluster: 0
+vca cluster 0
+vca distance 28581
+
+csj cluster num: 4
+csj unic gene num: 16
+csj outside of cluster: 3
+csj cluster 0
+csj distance 44765
+csj cluster 1
+csj distance 23838
+csj cluster 2
+csj distance 1848
+csj cluster 3
+csj distance 5940
+
+rsk cluster num: 1
+rsk unic gene num: 13
+rsk outside of cluster: 0
+rsk cluster 0
+rsk distance 20577
+
+eln cluster num: 2
+eln unic gene num: 14
+eln outside of cluster: 2
+eln cluster 0
+eln distance 20553
+eln cluster 1
+eln distance 26931
+
+patr cluster num: 1
+patr unic gene num: 14
+patr outside of cluster: 4
+patr cluster 0
+patr distance 62588
+
+vfm cluster num: 2
+vfm unic gene num: 11
+vfm outside of cluster: 2
+vfm cluster 0
+vfm distance 56280
+vfm cluster 1
+vfm distance 38964
+
+smaf cluster num: 2
+smaf unic gene num: 16
+smaf outside of cluster: 6
+smaf cluster 0
+smaf distance 59270
+smaf cluster 1
+smaf distance 34227
+
+kpa cluster num: 2
+kpa unic gene num: 14
+kpa outside of cluster: 3
+kpa cluster 0
+kpa distance 30597
+kpa cluster 1
+kpa distance 27133
+
+vcj cluster num: 1
+vcj unic gene num: 14
+vcj outside of cluster: 2
+vcj cluster 0
+vcj distance 120334
+
+vci cluster num: 1
+vci unic gene num: 14
+vci outside of cluster: 2
+vci cluster 0
+vci distance 117789
+
+btd cluster num: 4
+btd unic gene num: 14
+btd outside of cluster: 3
+btd cluster 0
+btd distance 89183
+btd cluster 1
+btd distance 17454
+btd cluster 2
+btd distance 20216
+btd cluster 3
+btd distance 22753
+
+bcn cluster num: 1
+bcn unic gene num: 13
+bcn outside of cluster: 2
+bcn cluster 0
+bcn distance 29193
+
+bam cluster num: 2
+bam unic gene num: 13
+bam outside of cluster: 2
+bam cluster 0
+bam distance 17741
+bam cluster 1
+bam distance 26985
+
+pfc cluster num: 0
+pfc unic gene num: 3
+pfc outside of cluster: 4
+
+ysi cluster num: 3
+ysi unic gene num: 16
+ysi outside of cluster: 2
+ysi cluster 0
+ysi distance 32639
+ysi cluster 1
+ysi distance 20041
+ysi cluster 2
+ysi distance 27697
+
+prp cluster num: 3
+prp unic gene num: 15
+prp outside of cluster: 9
+prp cluster 0
+prp distance 23807
+prp cluster 1
+prp distance 15442
+prp cluster 2
+prp distance 17958
+
+tat cluster num: 1
+tat unic gene num: 13
+tat outside of cluster: 0
+tat cluster 0
+tat distance 31265
+
+bpr cluster num: 1
+bpr unic gene num: 10
+bpr outside of cluster: 1
+bpr cluster 0
+bpr distance 13186
+
+aaa cluster num: 1
+aaa unic gene num: 13
+aaa outside of cluster: 8
+aaa cluster 0
+aaa distance 22463
+
+pdk cluster num: 3
+pdk unic gene num: 15
+pdk outside of cluster: 9
+pdk cluster 0
+pdk distance 23775
+pdk cluster 1
+pdk distance 18869
+pdk cluster 2
+pdk distance 17419
+
+pmot cluster num: 1
+pmot unic gene num: 13
+pmot outside of cluster: 5
+pmot cluster 0
+pmot distance 46679
+
+rsm cluster num: 1
+rsm unic gene num: 11
+rsm outside of cluster: 2
+rsm cluster 0
+rsm distance 27000
+
+bcen cluster num: 4
+bcen unic gene num: 14
+bcen outside of cluster: 3
+bcen cluster 0
+bcen distance 21662
+bcen cluster 1
+bcen distance 69973
+bcen cluster 2
+bcen distance 13366
+bcen cluster 3
+bcen distance 25871
+
+ypn cluster num: 7
+ypn unic gene num: 16
+ypn outside of cluster: 0
+ypn cluster 0
+ypn distance 3535
+ypn cluster 1
+ypn distance 20106
+ypn cluster 2
+ypn distance 17805
+ypn cluster 3
+ypn distance 9374
+ypn cluster 4
+ypn distance 33028
+ypn cluster 5
+ypn distance 45338
+ypn cluster 6
+ypn distance 25809
+
+bbr cluster num: 1
+bbr unic gene num: 12
+bbr outside of cluster: 0
+bbr cluster 0
+bbr distance 17131
+
+sef cluster num: 0
+sef unic gene num: 1
+sef outside of cluster: 1
+
+ppu cluster num: 3
+ppu unic gene num: 15
+ppu outside of cluster: 2
+ppu cluster 0
+ppu distance 11217
+ppu cluster 1
+ppu distance 31493
+ppu cluster 2
+ppu distance 13275
+
+ses cluster num: 2
+ses unic gene num: 14
+ses outside of cluster: 5
+ses cluster 0
+ses distance 9800
+ses cluster 1
+ses distance 143108
+
+pstu cluster num: 2
+pstu unic gene num: 13
+pstu outside of cluster: 0
+pstu cluster 0
+pstu distance 14372
+pstu cluster 1
+pstu distance 43098
+
+vct cluster num: 2
+vct unic gene num: 16
+vct outside of cluster: 0
+vct cluster 0
+vct distance 22746
+vct cluster 1
+vct distance 26311
+
+shb cluster num: 1
+shb unic gene num: 13
+shb outside of cluster: 1
+shb cluster 0
+shb distance 26478
+
+sei cluster num: 1
+sei unic gene num: 13
+sei outside of cluster: 1
+sei cluster 0
+sei distance 23457
+
+mme cluster num: 2
+mme unic gene num: 14
+mme outside of cluster: 1
+mme cluster 0
+mme distance 20217
+mme cluster 1
+mme distance 19682
+
+setu cluster num: 1
+setu unic gene num: 13
+setu outside of cluster: 1
+setu cluster 0
+setu distance 26342
+
+paem cluster num: 4
+paem unic gene num: 15
+paem outside of cluster: 7
+paem cluster 0
+paem distance 24116
+paem cluster 1
+paem distance 17977
+paem cluster 2
+paem distance 17413
+paem cluster 3
+paem distance 24158
+
+ypa cluster num: 6
+ypa unic gene num: 16
+ypa outside of cluster: 2
+ypa cluster 0
+ypa distance 3535
+ypa cluster 1
+ypa distance 9428
+ypa cluster 2
+ypa distance 32167
+ypa cluster 3
+ypa distance 30883
+ypa cluster 4
+ypa distance 40407
+ypa cluster 5
+ypa distance 20511
+
+epr cluster num: 2
+epr unic gene num: 11
+epr outside of cluster: 0
+epr cluster 0
+epr distance 23039
+epr cluster 1
+epr distance 2368
+
+pag cluster num: 3
+pag unic gene num: 15
+pag outside of cluster: 5
+pag cluster 0
+pag distance 23772
+pag cluster 1
+pag distance 18786
+pag cluster 2
+pag distance 17419
+
+paes cluster num: 3
+paes unic gene num: 15
+paes outside of cluster: 9
+paes cluster 0
+paes distance 23808
+paes cluster 1
+paes distance 18861
+paes cluster 2
+paes distance 17419
+
+yen cluster num: 1
+yen unic gene num: 12
+yen outside of cluster: 0
+yen cluster 0
+yen distance 27077
+
+bgp cluster num: 0
+bgp unic gene num: 2
+bgp outside of cluster: 2
+
+ebf cluster num: 1
+ebf unic gene num: 14
+ebf outside of cluster: 2
+ebf cluster 0
+ebf distance 23625
+
+sers cluster num: 2
+sers unic gene num: 13
+sers outside of cluster: 0
+sers cluster 0
+sers distance 35269
+sers cluster 1
+sers distance 22450
+
+seh cluster num: 1
+seh unic gene num: 10
+seh outside of cluster: 1
+seh cluster 0
+seh distance 26478
+
+yal cluster num: 2
+yal unic gene num: 15
+yal outside of cluster: 0
+yal cluster 0
+yal distance 22630
+yal cluster 1
+yal distance 28038
+
+vni cluster num: 2
+vni unic gene num: 15
+vni outside of cluster: 0
+vni cluster 0
+vni distance 20320
+vni cluster 1
+vni distance 23235
+
+yel cluster num: 1
+yel unic gene num: 12
+yel outside of cluster: 0
+yel cluster 0
+yel distance 30363
+
+yep cluster num: 1
+yep unic gene num: 13
+yep outside of cluster: 0
+yep cluster 0
+yep distance 27399
+
+cbw cluster num: 2
+cbw unic gene num: 15
+cbw outside of cluster: 7
+cbw cluster 0
+cbw distance 24626
+cbw cluster 1
+cbw distance 27673
+
+csi cluster num: 3
+csi unic gene num: 16
+csi outside of cluster: 6
+csi cluster 0
+csi distance 52394
+csi cluster 1
+csi distance 3271
+csi cluster 2
+csi distance 1850
+
+eclg cluster num: 2
+eclg unic gene num: 15
+eclg outside of cluster: 3
+eclg cluster 0
+eclg distance 2198
+eclg cluster 1
+eclg distance 27673
+
+ppv cluster num: 2
+ppv unic gene num: 15
+ppv outside of cluster: 0
+ppv cluster 0
+ppv distance 21439
+ppv cluster 1
+ppv distance 17345
+
+pbc cluster num: 2
+pbc unic gene num: 13
+pbc outside of cluster: 4
+pbc cluster 0
+pbc distance 17809
+pbc cluster 1
+pbc distance 19656
+
+psv cluster num: 1
+psv unic gene num: 13
+psv outside of cluster: 8
+psv cluster 0
+psv distance 15201
+
+bmab cluster num: 5
+bmab unic gene num: 14
+bmab outside of cluster: 2
+bmab cluster 0
+bmab distance 9500
+bmab cluster 1
+bmab distance 26749
+bmab cluster 2
+bmab distance 22663
+bmab cluster 3
+bmab distance 18668
+bmab cluster 4
+bmab distance 22796
+
+bcj cluster num: 1
+bcj unic gene num: 12
+bcj outside of cluster: 3
+bcj cluster 0
+bcj distance 15921
+
+seo cluster num: 1
+seo unic gene num: 13
+seo outside of cluster: 1
+seo cluster 0
+seo distance 25193
+
+sega cluster num: 1
+sega unic gene num: 14
+sega outside of cluster: 3
+sega cluster 0
+sega distance 21300
+
+ant cluster num: 1
+ant unic gene num: 13
+ant outside of cluster: 0
+ant cluster 0
+ant distance 25616
+
+kvq cluster num: 2
+kvq unic gene num: 14
+kvq outside of cluster: 1
+kvq cluster 0
+kvq distance 56662
+kvq cluster 1
+kvq distance 24491
+
+kpg cluster num: 2
+kpg unic gene num: 14
+kpg outside of cluster: 3
+kpg cluster 0
+kpg distance 27079
+kpg cluster 1
+kpg distance 27624
+
+yak cluster num: 1
+yak unic gene num: 14
+yak outside of cluster: 0
+yak cluster 0
+yak distance 36384
+
+rei cluster num: 2
+rei unic gene num: 12
+rei outside of cluster: 1
+rei cluster 0
+rei distance 20373
+rei cluster 1
+rei distance 20642
+
+btv cluster num: 4
+btv unic gene num: 14
+btv outside of cluster: 3
+btv cluster 0
+btv distance 55289
+btv cluster 1
+btv distance 22389
+btv cluster 2
+btv distance 26128
+btv cluster 3
+btv distance 22867
+
+csz cluster num: 3
+csz unic gene num: 15
+csz outside of cluster: 7
+csz cluster 0
+csz distance 83265
+csz cluster 1
+csz distance 6292
+csz cluster 2
+csz distance 46068
+
+kpt cluster num: 1
+kpt unic gene num: 7
+kpt outside of cluster: 4
+kpt cluster 0
+kpt distance 50859
+
+ecln cluster num: 2
+ecln unic gene num: 15
+ecln outside of cluster: 3
+ecln cluster 0
+ecln distance 1703
+ecln cluster 1
+ecln distance 27622
+
+raq cluster num: 2
+raq unic gene num: 16
+raq outside of cluster: 6
+raq cluster 0
+raq distance 463318
+raq cluster 1
+raq distance 16809
+
+pcz cluster num: 1
+pcz unic gene num: 13
+pcz outside of cluster: 6
+pcz cluster 0
+pcz distance 22371
+
+ypc cluster num: 5
+ypc unic gene num: 16
+ypc outside of cluster: 0
+ypc cluster 0
+ypc distance 20136
+ypc cluster 1
+ypc distance 32287
+ypc cluster 2
+ypc distance 27632
+ypc cluster 3
+ypc distance 53543
+ypc cluster 4
+ypc distance 42513
+
+bpy cluster num: 1
+bpy unic gene num: 13
+bpy outside of cluster: 1
+bpy cluster 0
+bpy distance 33274
+
+pcv cluster num: 3
+pcv unic gene num: 14
+pcv outside of cluster: 3
+pcv cluster 0
+pcv distance 14141
+pcv cluster 1
+pcv distance 32008
+pcv cluster 2
+pcv distance 82532
+
+swd cluster num: 1
+swd unic gene num: 14
+swd outside of cluster: 0
+swd cluster 0
+swd distance 22854
+
+kok cluster num: 3
+kok unic gene num: 14
+kok outside of cluster: 5
+kok cluster 0
+kok distance 23108
+kok cluster 1
+kok distance 25991
+kok cluster 2
+kok distance 2020
+
+sea cluster num: 1
+sea unic gene num: 11
+sea outside of cluster: 1
+sea cluster 0
+sea distance 24276
+
+pael cluster num: 3
+pael unic gene num: 15
+pael outside of cluster: 8
+pael cluster 0
+pael distance 23772
+pael cluster 1
+pael distance 18786
+pael cluster 2
+pael distance 17419
+
+btz cluster num: 5
+btz unic gene num: 14
+btz outside of cluster: 4
+btz cluster 0
+btz distance 31387
+btz cluster 1
+btz distance 26480
+btz cluster 2
+btz distance 25423
+btz cluster 3
+btz distance 26476
+btz cluster 4
+btz distance 20686
+
+ecr cluster num: 1
+ecr unic gene num: 14
+ecr outside of cluster: 1
+ecr cluster 0
+ecr distance 20852
+
+pre cluster num: 1
+pre unic gene num: 11
+pre outside of cluster: 1
+pre cluster 0
+pre distance 27466
+
+kpnu cluster num: 2
+kpnu unic gene num: 14
+kpnu outside of cluster: 3
+kpnu cluster 0
+kpnu distance 30612
+kpnu cluster 1
+kpnu distance 27130
+
+ecs cluster num: 1
+ecs unic gene num: 14
+ecs outside of cluster: 2
+ecs cluster 0
+ecs distance 20883
+
+bpt cluster num: 2
+bpt unic gene num: 15
+bpt outside of cluster: 2
+bpt cluster 0
+bpt distance 20192
+bpt cluster 1
+bpt distance 19785
+
+eau cluster num: 2
+eau unic gene num: 16
+eau outside of cluster: 1
+eau cluster 0
+eau distance 29036
+eau cluster 1
+eau distance 25142
+
+vpf cluster num: 1
+vpf unic gene num: 13
+vpf outside of cluster: 0
+vpf cluster 0
+vpf distance 21604
+
+bmaf cluster num: 4
+bmaf unic gene num: 14
+bmaf outside of cluster: 3
+bmaf cluster 0
+bmaf distance 12935
+bmaf cluster 1
+bmaf distance 18323
+bmaf cluster 2
+bmaf distance 72008
+bmaf cluster 3
+bmaf distance 26809
+
+vph cluster num: 1
+vph unic gene num: 13
+vph outside of cluster: 0
+vph cluster 0
+vph distance 21604
+
+eclz cluster num: 2
+eclz unic gene num: 13
+eclz outside of cluster: 5
+eclz cluster 0
+eclz distance 7608
+eclz cluster 1
+eclz distance 110026
+
+rme cluster num: 1
+rme unic gene num: 12
+rme outside of cluster: 0
+rme cluster 0
+rme distance 27038
+
+bge cluster num: 3
+bge unic gene num: 15
+bge outside of cluster: 0
+bge cluster 0
+bge distance 26734
+bge cluster 1
+bge distance 23407
+bge cluster 2
+bge distance 29946
+
+eck cluster num: 2
+eck unic gene num: 16
+eck outside of cluster: 2
+eck cluster 0
+eck distance 20790
+eck cluster 1
+eck distance 59408
+
+etw cluster num: 1
+etw unic gene num: 13
+etw outside of cluster: 1
+etw cluster 0
+etw distance 20890
+
+sej cluster num: 1
+sej unic gene num: 13
+sej outside of cluster: 1
+sej cluster 0
+sej distance 25193
+
+bch cluster num: 1
+bch unic gene num: 13
+bch outside of cluster: 3
+bch cluster 0
+bch distance 26031
+
+sel cluster num: 1
+sel unic gene num: 14
+sel outside of cluster: 3
+sel cluster 0
+sel distance 21301
+
+eclx cluster num: 2
+eclx unic gene num: 16
+eclx outside of cluster: 4
+eclx cluster 0
+eclx distance 38885
+eclx cluster 1
+eclx distance 38841
+
+vcx cluster num: 1
+vcx unic gene num: 13
+vcx outside of cluster: 2
+vcx cluster 0
+vcx distance 120193
+
+yph cluster num: 6
+yph unic gene num: 16
+yph outside of cluster: 0
+yph cluster 0
+yph distance 5884
+yph cluster 1
+yph distance 45214
+yph cluster 2
+yph distance 31379
+yph cluster 3
+yph distance 33028
+yph cluster 4
+yph distance 20160
+yph cluster 5
+yph distance 26862
+
+ppi cluster num: 2
+ppi unic gene num: 15
+ppi outside of cluster: 3
+ppi cluster 0
+ppi distance 15559
+ppi cluster 1
+ppi distance 22172
+
+pmy cluster num: 2
+pmy unic gene num: 15
+pmy outside of cluster: 3
+pmy cluster 0
+pmy distance 22155
+pmy cluster 1
+pmy distance 20151
+
+ena cluster num: 1
+ena unic gene num: 14
+ena outside of cluster: 0
+ena cluster 0
+ena distance 28902
+
+bpsd cluster num: 6
+bpsd unic gene num: 14
+bpsd outside of cluster: 3
+bpsd cluster 0
+bpsd distance 16127
+bpsd cluster 1
+bpsd distance 24604
+bpsd cluster 2
+bpsd distance 77812
+bpsd cluster 3
+bpsd distance 26204
+bpsd cluster 4
+bpsd distance 20089
+bpsd cluster 5
+bpsd distance 22817
+
+bte cluster num: 5
+bte unic gene num: 15
+bte outside of cluster: 2
+bte cluster 0
+bte distance 19234
+bte cluster 1
+bte distance 26365
+bte cluster 2
+bte distance 20766
+bte cluster 3
+bte distance 26405
+bte cluster 4
+bte distance 25417
+
+xoo cluster num: 2
+xoo unic gene num: 12
+xoo outside of cluster: 1
+xoo cluster 0
+xoo distance 27251
+xoo cluster 1
+xoo distance 55630
+
+pcp cluster num: 2
+pcp unic gene num: 15
+pcp outside of cluster: 10
+pcp cluster 0
+pcp distance 23032
+pcp cluster 1
+pcp distance 103727
+
+sfd cluster num: 1
+sfd unic gene num: 12
+sfd outside of cluster: 0
+sfd cluster 0
+sfd distance 21895
+
+psw cluster num: 2
+psw unic gene num: 15
+psw outside of cluster: 0
+psw cluster 0
+psw distance 18262
+psw cluster 1
+psw distance 20934
+
+ypw cluster num: 7
+ypw unic gene num: 15
+ypw outside of cluster: 1
+ypw cluster 0
+ypw distance 33032
+ypw cluster 1
+ypw distance 9433
+ypw cluster 2
+ypw distance 22601
+ypw cluster 3
+ypw distance 3688
+ypw cluster 4
+ypw distance 27268
+ypw cluster 5
+ypw distance 17806
+ypw cluster 6
+ypw distance 9879
+
+vha cluster num: 1
+vha unic gene num: 14
+vha outside of cluster: 1
+vha cluster 0
+vha distance 26688
+
+smar cluster num: 1
+smar unic gene num: 13
+smar outside of cluster: 0
+smar cluster 0
+smar distance 35522
+
+tor cluster num: 1
+tor unic gene num: 13
+tor outside of cluster: 1
+tor cluster 0
+tor distance 32024
+
+ecx cluster num: 1
+ecx unic gene num: 13
+ecx outside of cluster: 1
+ecx cluster 0
+ecx distance 20799
+
+pbm cluster num: 2
+pbm unic gene num: 13
+pbm outside of cluster: 2
+pbm cluster 0
+pbm distance 11206
+pbm cluster 1
+pbm distance 36336
+
+psyr cluster num: 2
+psyr unic gene num: 15
+psyr outside of cluster: 8
+psyr cluster 0
+psyr distance 17861
+psyr cluster 1
+psyr distance 38095
+
+bgo cluster num: 2
+bgo unic gene num: 12
+bgo outside of cluster: 4
+bgo cluster 0
+bgo distance 16243
+bgo cluster 1
+bgo distance 30248
+
+reh cluster num: 1
+reh unic gene num: 10
+reh outside of cluster: 1
+reh cluster 0
+reh distance 23855
+
+bcm cluster num: 1
+bcm unic gene num: 13
+bcm outside of cluster: 2
+bcm cluster 0
+bcm distance 18421
+
+kpo cluster num: 2
+kpo unic gene num: 14
+kpo outside of cluster: 1
+kpo cluster 0
+kpo distance 25897
+kpo cluster 1
+kpo distance 19552
+
+ddd cluster num: 1
+ddd unic gene num: 14
+ddd outside of cluster: 4
+ddd cluster 0
+ddd distance 37627
+
+axn cluster num: 1
+axn unic gene num: 13
+axn outside of cluster: 0
+axn cluster 0
+axn distance 34502
+
+eclc cluster num: 3
+eclc unic gene num: 16
+eclc outside of cluster: 2
+eclc cluster 0
+eclc distance 24783
+eclc cluster 1
+eclc distance 114388
+eclc cluster 2
+eclc distance 112612
+
+bmul cluster num: 3
+bmul unic gene num: 12
+bmul outside of cluster: 1
+bmul cluster 0
+bmul distance 30643
+bmul cluster 1
+bmul distance 10741
+bmul cluster 2
+bmul distance 36935
+
+ypi cluster num: 5
+ypi unic gene num: 16
+ypi outside of cluster: 0
+ypi cluster 0
+ypi distance 35677
+ypi cluster 1
+ypi distance 116339
+ypi cluster 2
+ypi distance 28228
+ypi cluster 3
+ypi distance 36258
+ypi cluster 4
+ypi distance 22602
+
+vpd cluster num: 2
+vpd unic gene num: 12
+vpd outside of cluster: 2
+vpd cluster 0
+vpd distance 110525
+vpd cluster 1
+vpd distance 48007
+
+xop cluster num: 2
+xop unic gene num: 9
+xop outside of cluster: 1
+xop cluster 0
+xop distance 26639
+xop cluster 1
+xop distance 9184
+
+ecq cluster num: 1
+ecq unic gene num: 13
+ecq outside of cluster: 1
+ecq cluster 0
+ecq distance 19191
+
+ecv cluster num: 1
+ecv unic gene num: 14
+ecv outside of cluster: 2
+ecv cluster 0
+ecv distance 30954
+
+buk cluster num: 4
+buk unic gene num: 15
+buk outside of cluster: 3
+buk cluster 0
+buk distance 16763
+buk cluster 1
+buk distance 43331
+buk cluster 2
+buk distance 17951
+buk cluster 3
+buk distance 127482
+
+kpv cluster num: 2
+kpv unic gene num: 14
+kpv outside of cluster: 2
+kpv cluster 0
+kpv distance 29494
+kpv cluster 1
+kpv distance 22302
+
+vpb cluster num: 2
+vpb unic gene num: 16
+vpb outside of cluster: 0
+vpb cluster 0
+vpb distance 28374
+vpb cluster 1
+vpb distance 21604
+
+bmae cluster num: 4
+bmae unic gene num: 15
+bmae outside of cluster: 1
+bmae cluster 0
+bmae distance 31134
+bmae cluster 1
+bmae distance 19631
+bmae cluster 2
+bmae distance 22685
+bmae cluster 3
+bmae distance 18662
+
+ppj cluster num: 2
+ppj unic gene num: 15
+ppj outside of cluster: 6
+ppj cluster 0
+ppj distance 7350
+ppj cluster 1
+ppj distance 32973
+
+vsp cluster num: 2
+vsp unic gene num: 16
+vsp outside of cluster: 0
+vsp cluster 0
+vsp distance 21547
+vsp cluster 1
+vsp distance 26116
+
+senh cluster num: 1
+senh unic gene num: 13
+senh outside of cluster: 1
+senh cluster 0
+senh distance 26478
+
+bmaq cluster num: 4
+bmaq unic gene num: 15
+bmaq outside of cluster: 2
+bmaq cluster 0
+bmaq distance 120604
+bmaq cluster 1
+bmaq distance 24760
+bmaq cluster 2
+bmaq distance 18668
+bmaq cluster 3
+bmaq distance 25226
+
+xtn cluster num: 2
+xtn unic gene num: 13
+xtn outside of cluster: 0
+xtn cluster 0
+xtn distance 25933
+xtn cluster 1
+xtn distance 62972
+
+msd cluster num: 4
+msd unic gene num: 13
+msd outside of cluster: 3
+msd cluster 0
+msd distance 4464
+msd cluster 1
+msd distance 12601
+msd cluster 2
+msd distance 17123
+msd cluster 3
+msd distance 4449
+
+bgf cluster num: 5
+bgf unic gene num: 15
+bgf outside of cluster: 1
+bgf cluster 0
+bgf distance 12141
+bgf cluster 1
+bgf distance 8744
+bgf cluster 2
+bgf distance 11528
+bgf cluster 3
+bgf distance 27747
+bgf cluster 4
+bgf distance 41549
+
+bmal cluster num: 4
+bmal unic gene num: 14
+bmal outside of cluster: 2
+bmal cluster 0
+bmal distance 51135
+bmal cluster 1
+bmal distance 22663
+bmal cluster 2
+bmal distance 18668
+bmal cluster 3
+bmal distance 20021
+
+kpy cluster num: 2
+kpy unic gene num: 14
+kpy outside of cluster: 3
+kpy cluster 0
+kpy distance 25878
+kpy cluster 1
+kpy distance 5341
+
+del cluster num: 1
+del unic gene num: 13
+del outside of cluster: 2
+del cluster 0
+del distance 37728
+
+vvu cluster num: 1
+vvu unic gene num: 12
+vvu outside of cluster: 0
+vvu cluster 0
+vvu distance 21607
+
+see cluster num: 1
+see unic gene num: 10
+see outside of cluster: 1
+see cluster 0
+see distance 26476
+
+ebi cluster num: 3
+ebi unic gene num: 16
+ebi outside of cluster: 6
+ebi cluster 0
+ebi distance 26092
+ebi cluster 1
+ebi distance 54737
+ebi cluster 2
+ebi distance 12960
+
+ypu cluster num: 5
+ypu unic gene num: 15
+ypu outside of cluster: 0
+ypu cluster 0
+ypu distance 32088
+ypu cluster 1
+ypu distance 27524
+ypu cluster 2
+ypu distance 51801
+ypu cluster 3
+ypu distance 22700
+ypu cluster 4
+ypu distance 20094
+
+pmk cluster num: 1
+pmk unic gene num: 13
+pmk outside of cluster: 0
+pmk cluster 0
+pmk distance 19375
+
+bmv cluster num: 5
+bmv unic gene num: 15
+bmv outside of cluster: 2
+bmv cluster 0
+bmv distance 12935
+bmv cluster 1
+bmv distance 24685
+bmv cluster 2
+bmv distance 25333
+bmv cluster 3
+bmv distance 18323
+bmv cluster 4
+bmv distance 20978
+
+enr cluster num: 2
+enr unic gene num: 16
+enr outside of cluster: 2
+enr cluster 0
+enr distance 38386
+enr cluster 1
+enr distance 35424
+
+kln cluster num: 1
+kln unic gene num: 13
+kln outside of cluster: 4
+kln cluster 0
+kln distance 40853
+
+xpo cluster num: 2
+xpo unic gene num: 16
+xpo outside of cluster: 3
+xpo cluster 0
+xpo distance 19994
+xpo cluster 1
+xpo distance 23298
+
+ypm cluster num: 7
+ypm unic gene num: 13
+ypm outside of cluster: 1
+ypm cluster 0
+ypm distance 32163
+ypm cluster 1
+ypm distance 3004
+ypm cluster 2
+ypm distance 3699
+ypm cluster 3
+ypm distance 1996
+ypm cluster 4
+ypm distance 3457
+ypm cluster 5
+ypm distance 19081
+ypm cluster 6
+ypm distance 14590
+
+xbv cluster num: 3
+xbv unic gene num: 13
+xbv outside of cluster: 2
+xbv cluster 0
+xbv distance 36541
+xbv cluster 1
+xbv distance 87648
+xbv cluster 2
+xbv distance 12855
+
+bpm cluster num: 5
+bpm unic gene num: 15
+bpm outside of cluster: 1
+bpm cluster 0
+bpm distance 173484
+bpm cluster 1
+bpm distance 19323
+bpm cluster 2
+bpm distance 24783
+bpm cluster 3
+bpm distance 45277
+bpm cluster 4
+bpm distance 21069
+
+ypp cluster num: 5
+ypp unic gene num: 16
+ypp outside of cluster: 0
+ypp cluster 0
+ypp distance 31441
+ypp cluster 1
+ypp distance 9434
+ypp cluster 2
+ypp distance 33034
+ypp cluster 3
+ypp distance 30302
+ypp cluster 4
+ypp distance 22581
+
+avd cluster num: 2
+avd unic gene num: 13
+avd outside of cluster: 0
+avd cluster 0
+avd distance 20732
+avd cluster 1
+avd distance 11995
+
+awd cluster num: 1
+awd unic gene num: 6
+awd outside of cluster: 1
+awd cluster 0
+awd distance 21512
+
+bul cluster num: 4
+bul unic gene num: 14
+bul outside of cluster: 3
+bul cluster 0
+bul distance 76816
+bul cluster 1
+bul distance 20177
+bul cluster 2
+bul distance 22743
+bul cluster 3
+bul distance 24133
+
+kpm cluster num: 2
+kpm unic gene num: 14
+kpm outside of cluster: 2
+kpm cluster 0
+kpm distance 26481
+kpm cluster 1
+kpm distance 27269
+
+ppf cluster num: 2
+ppf unic gene num: 15
+ppf outside of cluster: 2
+ppf cluster 0
+ppf distance 14108
+ppf cluster 1
+ppf distance 23530
+
+bub cluster num: 3
+bub unic gene num: 14
+bub outside of cluster: 5
+bub cluster 0
+bub distance 75850
+bub cluster 1
+bub distance 21339
+bub cluster 2
+bub distance 40492
+
+kpw cluster num: 2
+kpw unic gene num: 14
+kpw outside of cluster: 3
+kpw cluster 0
+kpw distance 27079
+kpw cluster 1
+kpw distance 30687
+
+bcon cluster num: 2
+bcon unic gene num: 13
+bcon outside of cluster: 3
+bcon cluster 0
+bcon distance 53334
+bcon cluster 1
+bcon distance 119483
+
+ypx cluster num: 5
+ypx unic gene num: 16
+ypx outside of cluster: 0
+ypx cluster 0
+ypx distance 20161
+ypx cluster 1
+ypx distance 109635
+ypx cluster 2
+ypx distance 37301
+ypx cluster 3
+ypx distance 30556
+ypx cluster 4
+ypx distance 24346
+
+bbh cluster num: 1
+bbh unic gene num: 12
+bbh outside of cluster: 0
+bbh cluster 0
+bbh distance 19644
+
+vcs cluster num: 1
+vcs unic gene num: 14
+vcs outside of cluster: 2
+vcs cluster 0
+vcs distance 117807
+
+ron cluster num: 2
+ron unic gene num: 14
+ron outside of cluster: 4
+ron cluster 0
+ron distance 146544
+ron cluster 1
+ron distance 138218
+
+ecoi cluster num: 2
+ecoi unic gene num: 12
+ecoi outside of cluster: 1
+ecoi cluster 0
+ecoi distance 20553
+ecoi cluster 1
+ecoi distance 28378
+
+pmon cluster num: 1
+pmon unic gene num: 13
+pmon outside of cluster: 5
+pmon cluster 0
+pmon distance 46679
+
+kpz cluster num: 2
+kpz unic gene num: 14
+kpz outside of cluster: 1
+kpz cluster 0
+kpz distance 25873
+kpz cluster 1
+kpz distance 19548
+
+pap cluster num: 3
+pap unic gene num: 15
+pap outside of cluster: 5
+pap cluster 0
+pap distance 24145
+pap cluster 1
+pap distance 18778
+pap cluster 2
+pap distance 17307
+
+yps cluster num: 5
+yps unic gene num: 15
+yps outside of cluster: 0
+yps cluster 0
+yps distance 20121
+yps cluster 1
+yps distance 32110
+yps cluster 2
+yps distance 27625
+yps cluster 3
+yps distance 46417
+yps cluster 4
+yps distance 31756
+
+kvd cluster num: 1
+kvd unic gene num: 14
+kvd outside of cluster: 4
+kvd cluster 0
+kvd distance 24330
+
+ykr cluster num: 1
+ykr unic gene num: 13
+ykr outside of cluster: 0
+ykr cluster 0
+ykr distance 99668
+
+ecw cluster num: 2
+ecw unic gene num: 14
+ecw outside of cluster: 2
+ecw cluster 0
+ecw distance 20788
+ecw cluster 1
+ecw distance 13883
+
+setc cluster num: 1
+setc unic gene num: 13
+setc outside of cluster: 1
+setc cluster 0
+setc distance 26342
+
+ppg cluster num: 2
+ppg unic gene num: 15
+ppg outside of cluster: 5
+ppg cluster 0
+ppg distance 111991
+ppg cluster 1
+ppg distance 15506
+
+rsn cluster num: 1
+rsn unic gene num: 10
+rsn outside of cluster: 2
+rsn cluster 0
+rsn distance 19943
+
+kpe cluster num: 3
+kpe unic gene num: 12
+kpe outside of cluster: 1
+kpe cluster 0
+kpe distance 17950
+kpe cluster 1
+kpe distance 19576
+kpe cluster 2
+kpe distance 5822
+
+buo cluster num: 3
+buo unic gene num: 15
+buo outside of cluster: 4
+buo cluster 0
+buo distance 8142
+buo cluster 1
+buo distance 4714
+buo cluster 2
+buo distance 26681
+
+kpc cluster num: 2
+kpc unic gene num: 14
+kpc outside of cluster: 3
+kpc cluster 0
+kpc distance 27079
+kpc cluster 1
+kpc distance 30688
+
+kpx cluster num: 3
+kpx unic gene num: 12
+kpx outside of cluster: 0
+kpx cluster 0
+kpx distance 17656
+kpx cluster 1
+kpx distance 31034
+kpx cluster 2
+kpx distance 17866
+
+pva cluster num: 1
+pva unic gene num: 11
+pva outside of cluster: 1
+pva cluster 0
+pva distance 76884
+
+pau cluster num: 3
+pau unic gene num: 15
+pau outside of cluster: 6
+pau cluster 0
+pau distance 24115
+pau cluster 1
+pau distance 18785
+pau cluster 2
+pau distance 20386
+
+eae cluster num: 3
+eae unic gene num: 16
+eae outside of cluster: 2
+eae cluster 0
+eae distance 28041
+eae cluster 1
+eae distance 17060
+eae cluster 2
+eae distance 29273
+
+vcl cluster num: 1
+vcl unic gene num: 14
+vcl outside of cluster: 1
+vcl cluster 0
+vcl distance 115225
+
+mpc cluster num: 2
+mpc unic gene num: 15
+mpc outside of cluster: 0
+mpc cluster 0
+mpc distance 20080
+mpc cluster 1
+mpc distance 29240
+
+pcc cluster num: 1
+pcc unic gene num: 14
+pcc outside of cluster: 2
+pcc cluster 0
+pcc distance 102336
+
+paj cluster num: 2
+paj unic gene num: 15
+paj outside of cluster: 1
+paj cluster 0
+paj distance 120177
+paj cluster 1
+paj distance 31351
+
+ppud cluster num: 3
+ppud unic gene num: 14
+ppud outside of cluster: 4
+ppud cluster 0
+ppud distance 46686
+ppud cluster 1
+ppud distance 2474
+ppud cluster 2
+ppud distance 53613
+
+kpne cluster num: 2
+kpne unic gene num: 14
+kpne outside of cluster: 3
+kpne cluster 0
+kpne distance 30612
+kpne cluster 1
+kpne distance 27130
+
+eoh cluster num: 2
+eoh unic gene num: 14
+eoh outside of cluster: 1
+eoh cluster 0
+eoh distance 20793
+eoh cluster 1
+eoh distance 25288
+
+ypb cluster num: 5
+ypb unic gene num: 16
+ypb outside of cluster: 0
+ypb cluster 0
+ypb distance 20094
+ypb cluster 1
+ypb distance 32097
+ypb cluster 2
+ypb distance 27695
+ypb cluster 3
+ypb distance 51803
+ypb cluster 4
+ypb distance 22700
+
+elx cluster num: 1
+elx unic gene num: 13
+elx outside of cluster: 2
+elx cluster 0
+elx distance 20883
+
+van cluster num: 2
+van unic gene num: 16
+van outside of cluster: 4
+van cluster 0
+van distance 20463
+van cluster 1
+van distance 20523
+
+csk cluster num: 3
+csk unic gene num: 7
+csk outside of cluster: 5
+csk cluster 0
+csk distance 12228
+csk cluster 1
+csk distance 14898
+csk cluster 2
+csk distance 27309
+
+pci cluster num: 3
+pci unic gene num: 14
+pci outside of cluster: 7
+pci cluster 0
+pci distance 18263
+pci cluster 1
+pci distance 68595
+pci cluster 2
+pci distance 22692
+
+kox cluster num: 4
+kox unic gene num: 14
+kox outside of cluster: 4
+kox cluster 0
+kox distance 11700
+kox cluster 1
+kox distance 23111
+kox cluster 2
+kox distance 32509
+kox cluster 3
+kox distance 24115
+
+senr cluster num: 0
+senr unic gene num: 1
+senr outside of cluster: 1
+
+spt cluster num: 1
+spt unic gene num: 13
+spt outside of cluster: 1
+spt cluster 0
+spt distance 28956
+
+paev cluster num: 3
+paev unic gene num: 14
+paev outside of cluster: 7
+paev cluster 0
+paev distance 23778
+paev cluster 1
+paev distance 15448
+paev cluster 2
+paev distance 17072
+
+pfb cluster num: 3
+pfb unic gene num: 15
+pfb outside of cluster: 3
+pfb cluster 0
+pfb distance 50935
+pfb cluster 1
+pfb distance 58567
+pfb cluster 2
+pfb distance 25649
+
+mari cluster num: 1
+mari unic gene num: 13
+mari outside of cluster: 2
+mari cluster 0
+mari distance 21243
+
+epy cluster num: 1
+epy unic gene num: 10
+epy outside of cluster: 4
+epy cluster 0
+epy distance 25307
+
+eko cluster num: 2
+eko unic gene num: 14
+eko outside of cluster: 2
+eko cluster 0
+eko distance 35003
+eko cluster 1
+eko distance 21625
+
+seec cluster num: 1
+seec unic gene num: 13
+seec outside of cluster: 1
+seec cluster 0
+seec distance 37748
+
+vcz cluster num: 1
+vcz unic gene num: 13
+vcz outside of cluster: 2
+vcz cluster 0
+vcz distance 120848
+
+ddc cluster num: 1
+ddc unic gene num: 14
+ddc outside of cluster: 2
+ddc cluster 0
+ddc distance 38566
+
+byi cluster num: 4
+byi unic gene num: 13
+byi outside of cluster: 2
+byi cluster 0
+byi distance 27845
+byi cluster 1
+byi distance 56670
+byi cluster 2
+byi distance 93127
+byi cluster 3
+byi distance 12745
+
+kpu cluster num: 2
+kpu unic gene num: 14
+kpu outside of cluster: 0
+kpu cluster 0
+kpu distance 29144
+kpu cluster 1
+kpu distance 23096
+
+kpp cluster num: 2
+kpp unic gene num: 14
+kpp outside of cluster: 0
+kpp cluster 0
+kpp distance 23045
+kpp cluster 1
+kpp distance 58708
+
+aza cluster num: 1
+aza unic gene num: 12
+aza outside of cluster: 0
+aza cluster 0
+aza distance 19807
+
+ekf cluster num: 2
+ekf unic gene num: 14
+ekf outside of cluster: 1
+ekf cluster 0
+ekf distance 20836
+ekf cluster 1
+ekf distance 35004
+
+stm cluster num: 1
+stm unic gene num: 13
+stm outside of cluster: 1
+stm cluster 0
+stm distance 25208
+
+eci cluster num: 2
+eci unic gene num: 14
+eci outside of cluster: 1
+eci cluster 0
+eci distance 20553
+eci cluster 1
+eci distance 28399
+
+avl cluster num: 2
+avl unic gene num: 13
+avl outside of cluster: 0
+avl cluster 0
+avl distance 20732
+avl cluster 1
+avl distance 16917
+
+ell cluster num: 2
+ell unic gene num: 14
+ell outside of cluster: 2
+ell cluster 0
+ell distance 20836
+ell cluster 1
+ell distance 34128
+
+vcf cluster num: 1
+vcf unic gene num: 14
+vcf outside of cluster: 2
+vcf cluster 0
+vcf distance 117801
+
+eec cluster num: 2
+eec unic gene num: 11
+eec outside of cluster: 0
+eec cluster 0
+eec distance 5310
+eec cluster 1
+eec distance 35571
+
+sbv cluster num: 2
+sbv unic gene num: 15
+sbv outside of cluster: 1
+sbv cluster 0
+sbv distance 16160
+sbv cluster 1
+sbv distance 45797
+
+psk cluster num: 2
+psk unic gene num: 15
+psk outside of cluster: 4
+psk cluster 0
+psk distance 18639
+psk cluster 1
+psk distance 18467
+
+pprc cluster num: 1
+pprc unic gene num: 11
+pprc outside of cluster: 1
+pprc cluster 0
+pprc distance 18713
+
+ppz cluster num: 2
+ppz unic gene num: 15
+ppz outside of cluster: 2
+ppz cluster 0
+ppz distance 15832
+ppz cluster 1
+ppz distance 19285
+
+ypv cluster num: 6
+ypv unic gene num: 15
+ypv outside of cluster: 1
+ypv cluster 0
+ypv distance 17806
+ypv cluster 1
+ypv distance 9522
+ypv cluster 2
+ypv distance 33034
+ypv cluster 3
+ypv distance 9428
+ypv cluster 4
+ypv distance 22601
+ypv cluster 5
+ypv distance 31462
+
+eclo cluster num: 2
+eclo unic gene num: 15
+eclo outside of cluster: 4
+eclo cluster 0
+eclo distance 28410
+eclo cluster 1
+eclo distance 27256
+
+btj cluster num: 5
+btj unic gene num: 14
+btj outside of cluster: 3
+btj cluster 0
+btj distance 47388
+btj cluster 1
+btj distance 16114
+btj cluster 2
+btj distance 25417
+btj cluster 3
+btj distance 20697
+btj cluster 4
+btj distance 26360
+
+kpk cluster num: 2
+kpk unic gene num: 14
+kpk outside of cluster: 2
+kpk cluster 0
+kpk distance 21405
+kpk cluster 1
+kpk distance 31630
+
+vfu cluster num: 2
+vfu unic gene num: 16
+vfu outside of cluster: 4
+vfu cluster 0
+vfu distance 21515
+vfu cluster 1
+vfu distance 20691
+
+bmk cluster num: 2
+bmk unic gene num: 12
+bmk outside of cluster: 1
+bmk cluster 0
+bmk distance 83010
+bmk cluster 1
+bmk distance 30063
+
+bmn cluster num: 5
+bmn unic gene num: 15
+bmn outside of cluster: 1
+bmn cluster 0
+bmn distance 9493
+bmn cluster 1
+bmn distance 20977
+bmn cluster 2
+bmn distance 24703
+bmn cluster 3
+bmn distance 25337
+bmn cluster 4
+bmn distance 17029
+
+paq cluster num: 1
+paq unic gene num: 13
+paq outside of cluster: 3
+paq cluster 0
+paq distance 117769
+
+bpse cluster num: 5
+bpse unic gene num: 14
+bpse outside of cluster: 3
+bpse cluster 0
+bpse distance 22817
+bpse cluster 1
+bpse distance 24586
+bpse cluster 2
+bpse distance 180370
+bpse cluster 3
+bpse distance 26416
+bpse cluster 4
+bpse distance 20089
+
+ypg cluster num: 6
+ypg unic gene num: 16
+ypg outside of cluster: 0
+ypg cluster 0
+ypg distance 11276
+ypg cluster 1
+ypg distance 6133
+ypg cluster 2
+ypg distance 10687
+ypg cluster 3
+ypg distance 3004
+ypg cluster 4
+ypg distance 150828
+ypg cluster 5
+ypg distance 3017
+
+vce cluster num: 1
+vce unic gene num: 13
+vce outside of cluster: 0
+vce cluster 0
+vce distance 194013
+
+pen cluster num: 1
+pen unic gene num: 13
+pen outside of cluster: 6
+pen cluster 0
+pen distance 20962
+
+seeh cluster num: 1
+seeh unic gene num: 13
+seeh outside of cluster: 1
+seeh cluster 0
+seeh distance 26478
+
+bok cluster num: 5
+bok unic gene num: 14
+bok outside of cluster: 2
+bok cluster 0
+bok distance 68798
+bok cluster 1
+bok distance 68442
+bok cluster 2
+bok distance 11508
+bok cluster 3
+bok distance 19840
+bok cluster 4
+bok distance 23868
+
+pfv cluster num: 1
+pfv unic gene num: 13
+pfv outside of cluster: 1
+pfv cluster 0
+pfv distance 18167
+
+pato cluster num: 1
+pato unic gene num: 14
+pato outside of cluster: 3
+pato cluster 0
+pato distance 62606
+
+bmai cluster num: 3
+bmai unic gene num: 15
+bmai outside of cluster: 2
+bmai cluster 0
+bmai distance 41152
+bmai cluster 1
+bmai distance 129492
+bmai cluster 2
+bmai distance 74938
+
+elr cluster num: 1
+elr unic gene num: 14
+elr outside of cluster: 2
+elr cluster 0
+elr distance 20855
+
+rec cluster num: 2
+rec unic gene num: 13
+rec outside of cluster: 0
+rec cluster 0
+rec distance 17842
+rec cluster 1
+rec distance 25708
+
+pfl cluster num: 0
+pfl unic gene num: 1
+pfl outside of cluster: 1
+
+psy cluster num: 1
+psy unic gene num: 14
+psy outside of cluster: 0
+psy cluster 0
+psy distance 23837
+
+pnc cluster num: 3
+pnc unic gene num: 15
+pnc outside of cluster: 7
+pnc cluster 0
+pnc distance 24140
+pnc cluster 1
+pnc distance 18889
+pnc cluster 2
+pnc distance 17879
+
+bpd cluster num: 6
+bpd unic gene num: 15
+bpd outside of cluster: 2
+bpd cluster 0
+bpd distance 19201
+bpd cluster 1
+bpd distance 26599
+bpd cluster 2
+bpd distance 20076
+bpd cluster 3
+bpd distance 22817
+bpd cluster 4
+bpd distance 24601
+bpd cluster 5
+bpd distance 22753
+
+lag cluster num: 2
+lag unic gene num: 16
+lag outside of cluster: 4
+lag cluster 0
+lag distance 20465
+lag cluster 1
+lag distance 20523
+
+plf cluster num: 1
+plf unic gene num: 8
+plf outside of cluster: 0
+plf cluster 0
+plf distance 22920
+
+ypo cluster num: 5
+ypo unic gene num: 15
+ypo outside of cluster: 0
+ypo cluster 0
+ypo distance 32977
+ypo cluster 1
+ypo distance 22602
+ypo cluster 2
+ypo distance 30076
+ypo cluster 3
+ypo distance 58589
+ypo cluster 4
+ypo distance 28319
+
+kpq cluster num: 2
+kpq unic gene num: 14
+kpq outside of cluster: 3
+kpq cluster 0
+kpq distance 27079
+kpq cluster 1
+kpq distance 30688
+
+yfr cluster num: 1
+yfr unic gene num: 13
+yfr outside of cluster: 0
+yfr cluster 0
+yfr distance 100178
+
+pao cluster num: 2
+pao unic gene num: 16
+pao outside of cluster: 5
+pao cluster 0
+pao distance 27924
+pao cluster 1
+pao distance 18337
+
+but cluster num: 5
+but unic gene num: 14
+but outside of cluster: 1
+but cluster 0
+but distance 148957
+but cluster 1
+but distance 65121
+but cluster 2
+but distance 16099
+but cluster 3
+but distance 25382
+but cluster 4
+but distance 128090
+
+bue cluster num: 3
+bue unic gene num: 13
+bue outside of cluster: 4
+bue cluster 0
+bue distance 227418
+bue cluster 1
+bue distance 10534
+bue cluster 2
+bue distance 6055
+
+elw cluster num: 1
+elw unic gene num: 14
+elw outside of cluster: 2
+elw cluster 0
+elw distance 34127
+
+eih cluster num: 2
+eih unic gene num: 14
+eih outside of cluster: 1
+eih cluster 0
+eih distance 20553
+eih cluster 1
+eih distance 28378
+
+ese cluster num: 1
+ese unic gene num: 14
+ese outside of cluster: 0
+ese cluster 0
+ese distance 27873
+
+paeb cluster num: 3
+paeb unic gene num: 15
+paeb outside of cluster: 7
+paeb cluster 0
+paeb distance 24134
+paeb cluster 1
+paeb distance 18785
+paeb cluster 2
+paeb distance 20384
+
+bpsa cluster num: 6
+bpsa unic gene num: 14
+bpsa outside of cluster: 3
+bpsa cluster 0
+bpsa distance 16097
+bpsa cluster 1
+bpsa distance 26273
+bpsa cluster 2
+bpsa distance 57912
+bpsa cluster 3
+bpsa distance 22859
+bpsa cluster 4
+bpsa distance 25373
+bpsa cluster 5
+bpsa distance 18377
+
+kva cluster num: 1
+kva unic gene num: 14
+kva outside of cluster: 6
+kva cluster 0
+kva distance 27102
+
+pba cluster num: 2
+pba unic gene num: 13
+pba outside of cluster: 5
+pba cluster 0
+pba distance 17184
+pba cluster 1
+pba distance 19743
+
+paei cluster num: 3
+paei unic gene num: 14
+paei outside of cluster: 7
+paei cluster 0
+paei distance 23778
+paei cluster 1
+paei distance 15448
+paei cluster 2
+paei distance 17072
+
+xoz cluster num: 2
+xoz unic gene num: 13
+xoz outside of cluster: 3
+xoz cluster 0
+xoz distance 27263
+xoz cluster 1
+xoz distance 77989
+
+edl cluster num: 3
+edl unic gene num: 16
+edl outside of cluster: 0
+edl cluster 0
+edl distance 31394
+edl cluster 1
+edl distance 24456
+edl cluster 2
+edl distance 16195
+
+pct cluster num: 1
+pct unic gene num: 14
+pct outside of cluster: 3
+pct cluster 0
+pct distance 24417
+
+paf cluster num: 3
+paf unic gene num: 15
+paf outside of cluster: 6
+paf cluster 0
+paf distance 20275
+paf cluster 1
+paf distance 17978
+paf cluster 2
+paf distance 17419
+
+eab cluster num: 1
+eab unic gene num: 14
+eab outside of cluster: 2
+eab cluster 0
+eab distance 24893
+
+cti cluster num: 1
+cti unic gene num: 11
+cti outside of cluster: 0
+cti cluster 0
+cti distance 24496
+
+mad cluster num: 1
+mad unic gene num: 13
+mad outside of cluster: 2
+mad cluster 0
+mad distance 21145
+
+psc cluster num: 2
+psc unic gene num: 13
+psc outside of cluster: 0
+psc cluster 0
+psc distance 14391
+psc cluster 1
+psc distance 41334
+
+ppun cluster num: 1
+ppun unic gene num: 11
+ppun outside of cluster: 6
+ppun cluster 0
+ppun distance 19343
+
+bpyr cluster num: 3
+bpyr unic gene num: 15
+bpyr outside of cluster: 3
+bpyr cluster 0
+bpyr distance 88326
+bpyr cluster 1
+bpyr distance 30812
+bpyr cluster 2
+bpyr distance 51569
+
+ham cluster num: 1
+ham unic gene num: 13
+ham outside of cluster: 2
+ham cluster 0
+ham distance 21551
+
+eno cluster num: 2
+eno unic gene num: 16
+eno outside of cluster: 5
+eno cluster 0
+eno distance 29041
+eno cluster 1
+eno distance 30128
+
+efe cluster num: 1
+efe unic gene num: 14
+efe outside of cluster: 0
+efe cluster 0
+efe distance 20509
+
+kom cluster num: 3
+kom unic gene num: 14
+kom outside of cluster: 4
+kom cluster 0
+kom distance 23114
+kom cluster 1
+kom distance 30845
+kom cluster 2
+kom distance 24118
+
+paeu cluster num: 3
+paeu unic gene num: 13
+paeu outside of cluster: 6
+paeu cluster 0
+paeu distance 22027
+paeu cluster 1
+paeu distance 15446
+paeu cluster 2
+paeu distance 9628
+
+ypy cluster num: 5
+ypy unic gene num: 16
+ypy outside of cluster: 0
+ypy cluster 0
+ypy distance 20996
+ypy cluster 1
+ypy distance 51370
+ypy cluster 2
+ypy distance 28247
+ypy cluster 3
+ypy distance 17373
+ypy cluster 4
+ypy distance 22602
+
+bug cluster num: 2
+bug unic gene num: 13
+bug outside of cluster: 2
+bug cluster 0
+bug distance 15553
+bug cluster 1
+bug distance 16063
+
+bxb cluster num: 3
+bxb unic gene num: 12
+bxb outside of cluster: 4
+bxb cluster 0
+bxb distance 4545
+bxb cluster 1
+bxb distance 16744
+bxb cluster 2
+bxb distance 60206
+
+tas cluster num: 1
+tas unic gene num: 13
+tas outside of cluster: 2
+tas cluster 0
+tas distance 37746
+
+ptt cluster num: 8
+ptt unic gene num: 16
+ptt outside of cluster: 6
+ptt cluster 0
+ptt distance 11060
+ptt cluster 1
+ptt distance 25685
+ptt cluster 2
+ptt distance 102019
+ptt cluster 3
+ptt distance 118374
+ptt cluster 4
+ptt distance 3008
+ptt cluster 5
+ptt distance 16114
+ptt cluster 6
+ptt distance 82941
+ptt cluster 7
+ptt distance 38450
+
+yew cluster num: 1
+yew unic gene num: 11
+yew outside of cluster: 0
+yew cluster 0
+yew distance 26969
+
+amv cluster num: 2
+amv unic gene num: 13
+amv outside of cluster: 0
+amv cluster 0
+amv distance 8696
+amv cluster 1
+amv distance 11445
+
+ypr cluster num: 5
+ypr unic gene num: 15
+ypr outside of cluster: 0
+ypr cluster 0
+ypr distance 36415
+ypr cluster 1
+ypr distance 22623
+ypr cluster 2
+ypr distance 30076
+ypr cluster 3
+ypr distance 126066
+ypr cluster 4
+ypr distance 28291
+
+psj cluster num: 2
+psj unic gene num: 13
+psj outside of cluster: 4
+psj cluster 0
+psj distance 8229
+psj cluster 1
+psj distance 7978
+
+ecoj cluster num: 1
+ecoj unic gene num: 14
+ecoj outside of cluster: 0
+ecoj cluster 0
+ecoj distance 42177
+
+pstt cluster num: 1
+pstt unic gene num: 13
+pstt outside of cluster: 2
+pstt cluster 0
+pstt distance 32256
+
+ypt cluster num: 6
+ypt unic gene num: 16
+ypt outside of cluster: 1
+ypt cluster 0
+ypt distance 9428
+ypt cluster 1
+ypt distance 22601
+ypt cluster 2
+ypt distance 31462
+ypt cluster 3
+ypt distance 17806
+ypt cluster 4
+ypt distance 9522
+ypt cluster 5
+ypt distance 33034
+
+bgd cluster num: 2
+bgd unic gene num: 13
+bgd outside of cluster: 3
+bgd cluster 0
+bgd distance 71818
+bgd cluster 1
+bgd distance 77296
+
+bpsm cluster num: 5
+bpsm unic gene num: 14
+bpsm outside of cluster: 2
+bpsm cluster 0
+bpsm distance 92926
+bpsm cluster 1
+bpsm distance 106161
+bpsm cluster 2
+bpsm distance 75139
+bpsm cluster 3
+bpsm distance 26749
+bpsm cluster 4
+bpsm distance 25382
+
+xor cluster num: 2
+xor unic gene num: 13
+xor outside of cluster: 5
+xor cluster 0
+xor distance 65763
+xor cluster 1
+xor distance 81496
+
+elc cluster num: 1
+elc unic gene num: 14
+elc outside of cluster: 2
+elc cluster 0
+elc distance 24914
+
+bmu cluster num: 3
+bmu unic gene num: 13
+bmu outside of cluster: 1
+bmu cluster 0
+bmu distance 35887
+bmu cluster 1
+bmu distance 42300
+bmu cluster 2
+bmu distance 29488
+
+bpsh cluster num: 5
+bpsh unic gene num: 14
+bpsh outside of cluster: 2
+bpsh cluster 0
+bpsh distance 32897
+bpsh cluster 1
+bpsh distance 16093
+bpsh cluster 2
+bpsh distance 25382
+bpsh cluster 3
+bpsh distance 128095
+bpsh cluster 4
+bpsh distance 49807
+
+vau cluster num: 1
+vau unic gene num: 7
+vau outside of cluster: 2
+vau cluster 0
+vau distance 18473
+
+yet cluster num: 1
+yet unic gene num: 12
+yet outside of cluster: 0
+yet cluster 0
+yet distance 28407
+
+xnm cluster num: 2
+xnm unic gene num: 16
+xnm outside of cluster: 5
+xnm cluster 0
+xnm distance 22891
+xnm cluster 1
+xnm distance 19497
+
+pant cluster num: 1
+pant unic gene num: 14
+pant outside of cluster: 2
+pant cluster 0
+pant distance 28823
+
+rga cluster num: 2
+rga unic gene num: 12
+rga outside of cluster: 1
+rga cluster 0
+rga distance 20726
+rga cluster 1
+rga distance 19718
+
+ced cluster num: 1
+ced unic gene num: 14
+ced outside of cluster: 2
+ced cluster 0
+ced distance 40494
+
+bgu cluster num: 5
+bgu unic gene num: 14
+bgu outside of cluster: 1
+bgu cluster 0
+bgu distance 16211
+bgu cluster 1
+bgu distance 146962
+bgu cluster 2
+bgu distance 28517
+bgu cluster 3
+bgu distance 18133
+bgu cluster 4
+bgu distance 2440
+
+esl cluster num: 2
+esl unic gene num: 16
+esl outside of cluster: 3
+esl cluster 0
+esl distance 25806
+esl cluster 1
+esl distance 21579
+
+bthe cluster num: 5
+bthe unic gene num: 14
+bthe outside of cluster: 3
+bthe cluster 0
+bthe distance 19234
+bthe cluster 1
+bthe distance 25417
+bthe cluster 2
+bthe distance 26437
+bthe cluster 3
+bthe distance 20643
+bthe cluster 4
+bthe distance 26414
+
+ypf cluster num: 6
+ypf unic gene num: 16
+ypf outside of cluster: 0
+ypf cluster 0
+ypf distance 11982
+ypf cluster 1
+ypf distance 35474
+ypf cluster 2
+ypf distance 27515
+ypf cluster 3
+ypf distance 115526
+ypf cluster 4
+ypf distance 42001
+ypf cluster 5
+ypf distance 6136
+
+rep cluster num: 3
+rep unic gene num: 12
+rep outside of cluster: 1
+rep cluster 0
+rep distance 16678
+rep cluster 1
+rep distance 20582
+rep cluster 2
+rep distance 20528
+
+[24914, 25802, 19082, 19937, 34641, 21000, 27460, 5546, 26476, 23778, 15448, 22257, 17851, 26918, 76760, 26774, 67272, 21175, 22812, 24783, 114388, 112612, 20959, 33214, 943, 9207, 19766, 3924, 27214, 16063, 50390, 17599, 115280, 27122, 1117, 17834, 29813, 13968, 19348, 25806, 21579, 7618, 18403, 34508, 17006, 15799, 3535, 25807, 31364, 33026, 109771, 22602, 16821, 28405, 23922, 20400, 83888, 24697, 25361, 14630, 15922, 10490, 10634, 32958, 26926, 21730, 12771, 23778, 15448, 17072, 9588, 290393, 6292, 20532, 18106, 17831, 15896, 23093, 20836, 34128, 27650, 172519, 50552, 15576, 12246, 25193, 30048, 16135, 25381, 36984, 25193, 30696, 34582, 80123, 56654, 25786, 71672, 14051, 19187, 17116, 25208, 35844, 24783, 114394, 112612, 26434, 28371, 30703, 38779, 19084, 28955, 20991, 259069, 18720, 28626, 36414, 22623, 30076, 125442, 28123, 20210, 27131, 35639, 28786, 39554, 24912, 28934, 19217, 29578, 26137, 18246, 19219, 23167, 16091, 20077, 22817, 24697, 76813, 26488, 31811, 27130, 24238, 19080, 21663, 19921, 125956, 66770, 26700, 20532, 56019, 24122, 18785, 20385, 22465, 15448, 17880, 16035, 20381, 25766, 18052, 25390, 36732, 62441, 2099, 34372, 35915, 29684, 28367, 21604, 20883, 22601, 31462, 17806, 9522, 33034, 9428, 17610, 24122, 28193, 24689, 20437, 22898, 35963, 22451, 73120, 33334, 14191, 15802, 25193, 29684, 27079, 20864, 188850, 32311, 30543, 19234, 26293, 20757, 26415, 25417, 31312, 38170, 22528, 25417, 26353, 20697, 28956, 23525, 22241, 46365, 29042, 18288, 31450, 33024, 20093, 26861, 5885, 45214, 31380, 19479, 23558, 28190, 16100, 26788, 25400, 128053, 75061, 21702, 24975, 32582, 27156, 28024, 4556, 21003, 14406, 38955, 16763, 24158, 18897, 23272, 33242, 25180, 23505, 23471, 62625, 19200, 126317, 22817, 24607, 45254, 30460, 18286, 28203, 18905, 35246, 18905, 35252, 159581, 20695, 20527, 30596, 27130, 17880, 23781, 15448, 29191, 28598, 28357, 21588, 29254, 17639, 127417, 25417, 29344, 20733, 26490, 21603, 22851, 24168, 8228, 37207, 18668, 22772, 24703, 29737, 26405, 25417, 26365, 20757, 35280, 17600, 84422, 121462, 64233, 42850, 27659, 16906, 19514, 23032, 28377, 25933, 43340, 20289, 2901, 13675, 39734, 27131, 20577, 11121, 19354, 8799, 26678, 22891, 19497, 23654, 20708, 20556, 29616, 19201, 126511, 22817, 24676, 66732, 25806, 21579, 26274, 20553, 28389, 44202, 20177, 9397, 37182, 30644, 16308, 3017, 21550, 17131, 20174, 45434, 37156, 30684, 15700, 3017, 21315, 28045, 132688, 34663, 25873, 26931, 28581, 44765, 23838, 1848, 5940, 20577, 20553, 26931, 62588, 56280, 38964, 59270, 34227, 30597, 27133, 120334, 117789, 89183, 17454, 20216, 22753, 29193, 17741, 26985, 32639, 20041, 27697, 23807, 15442, 17958, 31265, 13186, 22463, 23775, 18869, 17419, 46679, 27000, 21662, 69973, 13366, 25871, 3535, 20106, 17805, 9374, 33028, 45338, 25809, 17131, 11217, 31493, 13275, 9800, 143108, 14372, 43098, 22746, 26311, 26478, 23457, 20217, 19682, 26342, 24116, 17977, 17413, 24158, 3535, 9428, 32167, 30883, 40407, 20511, 23039, 2368, 23772, 18786, 17419, 23808, 18861, 17419, 27077, 23625, 35269, 22450, 26478, 22630, 28038, 20320, 23235, 30363, 27399, 24626, 27673, 52394, 3271, 1850, 2198, 27673, 21439, 17345, 17809, 19656, 15201, 9500, 26749, 22663, 18668, 22796, 15921, 25193, 21300, 25616, 56662, 24491, 27079, 27624, 36384, 20373, 20642, 55289, 22389, 26128, 22867, 83265, 6292, 46068, 50859, 1703, 27622, 463318, 16809, 22371, 20136, 32287, 27632, 53543, 42513, 33274, 14141, 32008, 82532, 22854, 23108, 25991, 2020, 24276, 23772, 18786, 17419, 31387, 26480, 25423, 26476, 20686, 20852, 27466, 30612, 27130, 20883, 20192, 19785, 29036, 25142, 21604, 12935, 18323, 72008, 26809, 21604, 7608, 110026, 27038, 26734, 23407, 29946, 20790, 59408, 20890, 25193, 26031, 21301, 38885, 38841, 120193, 5884, 45214, 31379, 33028, 20160, 26862, 15559, 22172, 22155, 20151, 28902, 16127, 24604, 77812, 26204, 20089, 22817, 19234, 26365, 20766, 26405, 25417, 27251, 55630, 23032, 103727, 21895, 18262, 20934, 33032, 9433, 22601, 3688, 27268, 17806, 9879, 26688, 35522, 32024, 20799, 11206, 36336, 17861, 38095, 16243, 30248, 23855, 18421, 25897, 19552, 37627, 34502, 24783, 114388, 112612, 30643, 10741, 36935, 35677, 116339, 28228, 36258, 22602, 110525, 48007, 26639, 9184, 19191, 30954, 16763, 43331, 17951, 127482, 29494, 22302, 28374, 21604, 31134, 19631, 22685, 18662, 7350, 32973, 21547, 26116, 26478, 120604, 24760, 18668, 25226, 25933, 62972, 4464, 12601, 17123, 4449, 12141, 8744, 11528, 27747, 41549, 51135, 22663, 18668, 20021, 25878, 5341, 37728, 21607, 26476, 26092, 54737, 12960, 32088, 27524, 51801, 22700, 20094, 19375, 12935, 24685, 25333, 18323, 20978, 38386, 35424, 40853, 19994, 23298, 32163, 3004, 3699, 1996, 3457, 19081, 14590, 36541, 87648, 12855, 173484, 19323, 24783, 45277, 21069, 31441, 9434, 33034, 30302, 22581, 20732, 11995, 21512, 76816, 20177, 22743, 24133, 26481, 27269, 14108, 23530, 75850, 21339, 40492, 27079, 30687, 53334, 119483, 20161, 109635, 37301, 30556, 24346, 19644, 117807, 146544, 138218, 20553, 28378, 46679, 25873, 19548, 24145, 18778, 17307, 20121, 32110, 27625, 46417, 31756, 24330, 99668, 20788, 13883, 26342, 111991, 15506, 19943, 17950, 19576, 5822, 8142, 4714, 26681, 27079, 30688, 17656, 31034, 17866, 76884, 24115, 18785, 20386, 28041, 17060, 29273, 115225, 20080, 29240, 102336, 120177, 31351, 46686, 2474, 53613, 30612, 27130, 20793, 25288, 20094, 32097, 27695, 51803, 22700, 20883, 20463, 20523, 12228, 14898, 27309, 18263, 68595, 22692, 11700, 23111, 32509, 24115, 28956, 23778, 15448, 17072, 50935, 58567, 25649, 21243, 25307, 35003, 21625, 37748, 120848, 38566, 27845, 56670, 93127, 12745, 29144, 23096, 23045, 58708, 19807, 20836, 35004, 25208, 20553, 28399, 20732, 16917, 20836, 34128, 117801, 5310, 35571, 16160, 45797, 18639, 18467, 18713, 15832, 19285, 17806, 9522, 33034, 9428, 22601, 31462, 28410, 27256, 47388, 16114, 25417, 20697, 26360, 21405, 31630, 21515, 20691, 83010, 30063, 9493, 20977, 24703, 25337, 17029, 117769, 22817, 24586, 180370, 26416, 20089, 11276, 6133, 10687, 3004, 150828, 3017, 194013, 20962, 26478, 68798, 68442, 11508, 19840, 23868, 18167, 62606, 41152, 129492, 74938, 20855, 17842, 25708, 23837, 24140, 18889, 17879, 19201, 26599, 20076, 22817, 24601, 22753, 20465, 20523, 22920, 32977, 22602, 30076, 58589, 28319, 27079, 30688, 100178, 27924, 18337, 148957, 65121, 16099, 25382, 128090, 227418, 10534, 6055, 34127, 20553, 28378, 27873, 24134, 18785, 20384, 16097, 26273, 57912, 22859, 25373, 18377, 27102, 17184, 19743, 23778, 15448, 17072, 27263, 77989, 31394, 24456, 16195, 24417, 20275, 17978, 17419, 24893, 24496, 21145, 14391, 41334, 19343, 88326, 30812, 51569, 21551, 29041, 30128, 20509, 23114, 30845, 24118, 22027, 15446, 9628, 20996, 51370, 28247, 17373, 22602, 15553, 16063, 4545, 16744, 60206, 37746, 11060, 25685, 102019, 118374, 3008, 16114, 82941, 38450, 26969, 8696, 11445, 36415, 22623, 30076, 126066, 28291, 8229, 7978, 42177, 32256, 9428, 22601, 31462, 17806, 9522, 33034, 71818, 77296, 92926, 106161, 75139, 26749, 25382, 65763, 81496, 24914, 35887, 42300, 29488, 32897, 16093, 25382, 128095, 49807, 18473, 28407, 22891, 19497, 28823, 20726, 19718, 40494, 16211, 146962, 28517, 18133, 2440, 25806, 21579, 19234, 25417, 26437, 20643, 26414, 11982, 35474, 27515, 115526, 42001, 6136, 16678, 20582, 20528]
+[Finished in 3.9s]
