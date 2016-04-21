@@ -7,6 +7,8 @@ from subprocess import Popen, PIPE
 from threading  import Thread
 from queue import Queue, Empty
 import os
+from gene_extractor import get_features
+from collections import deque
 
 
 class Hit(object):
@@ -60,15 +62,55 @@ def genome_to_fasta(path, out_path):
     SeqIO.write(records, out_path, "fasta")
 
 
-def extract_intervals(hits, genes, size = 10000):
-    found = set()
-    needed = set(genes)
-    hits.sort(key=lambda x:x.)
-    for hit in hits:
-        found.add(hit.target)
+class Gene(object):
+    def __init__(self, name, strand, start, end, contig):
+        self.name = name
+        self.strand = strand
+        self.start = start
+        self.end = end
+        self.contig = contig
 
-    if found == needed:
-        return
+
+def parse_genbank_genome(path):
+    genes = {}
+    features = get_features(path)
+    for feature in features:
+        if "locus_tag" not in feature.qualifiers:
+            continue
+        name = feature.qualifiers["locus_tag"][0]
+        genes[name] = Gene(name, feature.strand, int(feature.location.start), int(feature.location.end), feature.contig)
+    return genes
+
+
+def update_hits_with_location(hits, file):
+    genes = parse_genbank_genome(file)
+    for hit in hits:
+        hit.gene = genes[hit.target]
+
+
+def extract_intervals(hits, genes, min_number=9, size=10000):
+    contigs = {}
+    for hit in hits:
+        if hit.gene.contig in contigs:
+            contigs[hit.gene.contig].append(hit)
+        else:
+            contigs[hit.gene.contig] = [hit]
+    for c in contigs:
+        contigs[c].sort(key=lambda h: h.gene.start)
+    window = deque()
+    hits.sort(key=lambda h: h.feature.location.start)
+    operons = []
+    for hit in hits:
+        window.append(hit)
+        new_window = deque()
+        for added_hit in window:
+            if hit.feature.location.end - added_hit.feature.location.start <= size:
+                new_window.append(added_hit)
+        window = new_window
+        query_ids = set([])
+
+    return operons
+
 
 
 def interval_to_vector(interval):
@@ -99,6 +141,7 @@ def main():
         fasta_file = get_fasta_path(file)
         genome_to_fasta(file, fasta_file)
         hits = blast(query, fasta_file)
+        update_hits_with_location(hits, file)
         intervals = extract_intervals(hits, genes)
         for interval in intervals:
             vector = interval_to_vector(interval)
